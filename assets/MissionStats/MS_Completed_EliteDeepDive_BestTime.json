@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_EliteDeepDive_BestTime",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_EliteDeepDive_BestTime",
+    "Properties": {
+      "SaveGameID": "943520F7-4B65A8BC-2AB64987-A23A685D",
+      "Title": {
+        "Namespace": "",
+        "Key": "21B71C6B48DF5AAAF12A638A9F6A35AA",
+        "SourceString": "Best Elite Deep Dive Completion Time",
+        "LocalizedString": "Best Elite Deep Dive Completion Time"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_DeepDives'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_DeepDives.0"
+      },
+      "MissionStatType": "EMissionStatType::Time",
+      "ShowAllValuesCombined": false,
+      "ShowHighestValue": false
+    }
+  }
+]

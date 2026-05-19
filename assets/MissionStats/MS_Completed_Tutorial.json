@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Tutorial",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Tutorial",
+    "Properties": {
+      "SaveGameID": "A21B8711-41EE5615-824D56B4-09646ECB",
+      "Title": {
+        "Namespace": "",
+        "Key": "F6A4B09E462200AC756772A1AAA27A45",
+        "SourceString": "Tutorial Mission Completed",
+        "LocalizedString": "Tutorial Mission Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

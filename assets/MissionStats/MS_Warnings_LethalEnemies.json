@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_LethalEnemies",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_LethalEnemies",
+    "Properties": {
+      "SaveGameID": "B0EBF8DD-478055B8-20D786A2-33DFAA57",
+      "Title": {
+        "Namespace": "",
+        "Key": "F016756B40412366200E4F811229E68B",
+        "SourceString": "'Lethal Enemies' Warnings Completed",
+        "LocalizedString": "'Lethal Enemies' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Fungus",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Fungus",
+    "Properties": {
+      "SaveGameID": "644CB067-42C431C4-48A2B397-543E1620",
+      "Title": {
+        "Namespace": "",
+        "Key": "8316667348DB4631EAC7A781BB63FE2D",
+        "SourceString": "Fungus Bogs Missions Completed",
+        "LocalizedString": "Fungus Bogs Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Bioms'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

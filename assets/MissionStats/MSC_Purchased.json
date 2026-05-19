@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Purchased",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Purchased",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "3FD083F34EFC314A45D3F5B23319BD5B",
+        "SourceString": "Purchased",
+        "LocalizedString": "Purchased"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Vanity_Icons_Moustache'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_VanityShop/Vanity_Icons_Moustache.0"
+      }
+    }
+  }
+]

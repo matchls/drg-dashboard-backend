@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_SeasonChallenge",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_SeasonChallenge",
+    "Properties": {
+      "SaveGameID": "B19A413C-4B72E637-EB56179D-C984EC82",
+      "Title": {
+        "Namespace": "",
+        "Key": "15931782495935091D66B4A76B345C97",
+        "SourceString": "Season Challenges Completed",
+        "LocalizedString": "Season Challenges Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Seasons'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Seasons.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

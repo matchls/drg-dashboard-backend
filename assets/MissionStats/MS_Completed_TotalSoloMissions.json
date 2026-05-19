@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_TotalSoloMissions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_TotalSoloMissions",
+    "Properties": {
+      "SaveGameID": "1CFEF753-43FB0E00-110E4D9E-EC878869",
+      "Title": {
+        "Namespace": "",
+        "Key": "B2E1265A42C5AB5F4D2CEC9B85194128",
+        "SourceString": "Solo Missions Completed",
+        "LocalizedString": "Solo Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "StatAchievement": {
+        "ObjectName": "FSDAchievement'ACH_BoscoIsTheBest'",
+        "ObjectPath": "FSD/Content/GameElements/Achievements/ACH_BoscoIsTheBest.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

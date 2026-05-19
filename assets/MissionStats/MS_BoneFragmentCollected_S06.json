@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_BoneFragmentCollected_S06",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_BoneFragmentCollected_S06",
+    "Properties": {
+      "SaveGameID": "72AD9637-419546AF-A8D5719F-645A488C",
+      "Title": {
+        "Namespace": "",
+        "Key": "2F4D255640A8895C6DC38B83FE5E5B9A",
+        "SourceString": "Bone Fragments Collected",
+        "LocalizedString": "Bone Fragments Collected"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Seasons'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Seasons.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "ShowHighestValue": false
+    }
+  }
+]

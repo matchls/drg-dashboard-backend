@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Characters",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Characters",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "C60CA1D54DAC2E20B2CB77B2C1814477",
+        "SourceString": "Characters",
+        "LocalizedString": "Characters"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_ClassLevel'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_Misc/Icon_ClassLevel.0"
+      }
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Time",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Time",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "B2CB735C4E2758F43514DDB7E6AAAF99",
+        "SourceString": "Time",
+        "LocalizedString": "Time"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_Time'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_MissionStats/Icon_Time.0"
+      }
+    }
+  }
+]

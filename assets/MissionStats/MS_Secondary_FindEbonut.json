@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_FindEbonut",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_FindEbonut",
+    "Properties": {
+      "SaveGameID": "787875C3-4B1FE652-39B194AE-C43BD795",
+      "Title": {
+        "Namespace": "",
+        "Key": "9D8355FF43F7C7A5DB2A1A9443DC9457",
+        "SourceString": "Ebonut Secondary Missions Completed",
+        "LocalizedString": "Ebonut Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

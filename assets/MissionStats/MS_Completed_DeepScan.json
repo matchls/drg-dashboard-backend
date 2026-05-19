@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_DeepScan",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_DeepScan",
+    "Properties": {
+      "SaveGameID": "09837600-45F8CF5F-5247D695-3381D728",
+      "Title": {
+        "Namespace": "",
+        "Key": "A9995A0547922E5320FC0C803023ACDD",
+        "SourceString": "Deep Scan Missions Completed",
+        "LocalizedString": "Deep Scan Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

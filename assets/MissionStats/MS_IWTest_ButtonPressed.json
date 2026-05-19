@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_IWTest_ButtonPressed",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_IWTest_ButtonPressed",
+    "Properties": {
+      "SaveGameID": "D5E19222-4077AE74-4B70BCB7-2C847139",
+      "Title": {
+        "Namespace": "",
+        "Key": "88312B274617E66C52E0AA82A4CBC76B",
+        "SourceString": "Buttons Pressed",
+        "LocalizedString": "Buttons Pressed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Seasons'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Seasons.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "ShowHighestValue": false
+    }
+  }
+]

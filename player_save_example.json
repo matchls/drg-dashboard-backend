@@ -1,0 +1,3172 @@
+{
+  "VersionNumber": 2,
+  "MissionStatsSave": {
+    "Counters": [
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "f803c36f7517bf479202063bbe5b68c6",
+        "Value": 13260048.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "57f21f5d735f1944b08a63395ccd6da7",
+        "Value": 58059.4805,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "d0fc16584756b541b8708ffc3c2ac6a2",
+        "Value": 7127.9487,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "e77ad95bdfa17d438e5bfe1ca6bf690a",
+        "Value": 5174.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "d839bca48ae243468b5da06e7bd0e4c8",
+        "Value": 29.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "22249055a35db74eb1fe1f32a5047593",
+        "Value": 29.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "11871ba21556ee41b4564d82cb6e6409",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "111bdae028b21c409579d6f7ff5be606",
+        "Value": 84.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "111bdae028b21c409579d6f7ff5be606",
+        "Value": 134.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "57f21f5d735f1944b08a63395ccd6da7",
+        "Value": 239900.5938,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "f803c36f7517bf479202063bbe5b68c6",
+        "Value": 64841756.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "d0fc16584756b541b8708ffc3c2ac6a2",
+        "Value": 58289.0977,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "fcc4bdafb0400b4caba6b30c506e5b19",
+        "Value": 440.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "fcc4bdafb0400b4caba6b30c506e5b19",
+        "Value": 525.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "f86b76d826b95b45a16467936927db1b",
+        "Value": 80.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "e77ad95bdfa17d438e5bfe1ca6bf690a",
+        "Value": 18433.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "d839bca48ae243468b5da06e7bd0e4c8",
+        "Value": 118.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "e3e825fc837f354889075523949c2e1a",
+        "Value": 118.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "c8d72ca0bd467d4f92bee1cb8f09975f",
+        "Value": 16.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "75381c780da5e640b49d7f1fffa098ef",
+        "Value": 72.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "a8b3d4e6f87eb549bbdfd70959dc18d4",
+        "Value": 23.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "1303e451de761d4796cd0bd5e2a682e0",
+        "Value": 117.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "c375787852e61f4bae94b13995d73bc4",
+        "Value": 20.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "57f21f5d735f1944b08a63395ccd6da7",
+        "Value": 117770.2578,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "f803c36f7517bf479202063bbe5b68c6",
+        "Value": 29724514.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "d0fc16584756b541b8708ffc3c2ac6a2",
+        "Value": 16024.5264,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "f86b76d826b95b45a16467936927db1b",
+        "Value": 34.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "e77ad95bdfa17d438e5bfe1ca6bf690a",
+        "Value": 12365.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "d839bca48ae243468b5da06e7bd0e4c8",
+        "Value": 67.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "d6e1ba9c5d23fa4ab36466778f13da71",
+        "Value": 67.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "c8d72ca0bd467d4f92bee1cb8f09975f",
+        "Value": 8.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "75381c780da5e640b49d7f1fffa098ef",
+        "Value": 51.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "39f41f8b87eed544b757ad3084db4a56",
+        "Value": 9.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "1303e451de761d4796cd0bd5e2a682e0",
+        "Value": 61.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "f06c98a0b831064f814768b1777bcdff",
+        "Value": 7.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "111bdae028b21c409579d6f7ff5be606",
+        "Value": 74.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "57f21f5d735f1944b08a63395ccd6da7",
+        "Value": 163625.7812,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "f803c36f7517bf479202063bbe5b68c6",
+        "Value": 43402192.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "d0fc16584756b541b8708ffc3c2ac6a2",
+        "Value": 28145.7715,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "fcc4bdafb0400b4caba6b30c506e5b19",
+        "Value": 643.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "f86b76d826b95b45a16467936927db1b",
+        "Value": 71.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "e77ad95bdfa17d438e5bfe1ca6bf690a",
+        "Value": 15625.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "d839bca48ae243468b5da06e7bd0e4c8",
+        "Value": 93.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "c4897a0f90059c41a5e1b778fcf859af",
+        "Value": 93.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "cadd2557633002469cce14ba34dcda05",
+        "Value": 11.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "75381c780da5e640b49d7f1fffa098ef",
+        "Value": 67.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "b8a82208f7d6ca45a97ca5c44023e640",
+        "Value": 9.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "1303e451de761d4796cd0bd5e2a682e0",
+        "Value": 91.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "6c4d21996eb2644690dcd3618b5b9c27",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "34b679e5fc836d458c5e839d9075c06e",
+        "Value": 84.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "dc257ebd58cfd045abcc98c930eaed5e",
+        "Value": 43.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "67b04c64c431c44297b3a24820163e54",
+        "Value": 11.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "6c4d21996eb2644690dcd3618b5b9c27",
+        "Value": 18.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "fcc4bdafb0400b4caba6b30c506e5b19",
+        "Value": 571.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "b787a9dfd242934786b39534939d3e17",
+        "Value": 14.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "c282e05dcd38e5468ac2ba9a8c35de5e",
+        "Value": 13.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "fc637f52ca5f664998ccc36dfc83a388",
+        "Value": 19.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "b0ab4b4701a5594da74b7a19419604cb",
+        "Value": 109.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "2e4784bfaff4614cb340dea1b8611743",
+        "Value": 43.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "ae890e3a5304604da04cc52959de8a77",
+        "Value": 58.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "baaceec8b58dfd48846bd67c16d56b90",
+        "Value": 14.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "39f41f8b87eed544b757ad3084db4a56",
+        "Value": 18.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "f06c98a0b831064f814768b1777bcdff",
+        "Value": 14.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "f782a6a2aeffae418731fe13541fd8cf",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "fd41463ad3932f4ba378132078b3890f",
+        "Value": 14.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "d6845a5cfad9e6439cf98a66d80c5d73",
+        "Value": 16.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "66f2d5273af4cb41bf9bf65907671d9a",
+        "Value": 13.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "b8a82208f7d6ca45a97ca5c44023e640",
+        "Value": 15.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "d786609e70dcf747ad2bbfe093708618",
+        "Value": 11.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "f165765dd92a2341a956b7ab7e342570",
+        "Value": 11.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "3c419ab137e6724b9d1756eb82ec84c9",
+        "Value": 16.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "b6c420076d16cc4aa68fa7950cdec328",
+        "Value": 18.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "ff10aa15b8bb8f49983b634c1dfe2cc7",
+        "Value": 18.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "25b829f99213ee4a9869ec16569d241f",
+        "Value": 235.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "bdcc3f1f8121004f95b22c23d1881082",
+        "Value": 17.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "06ae65fe33c85146a8c0d80304e51e3a",
+        "Value": 11.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "56ae355d474ec94b9c7eb4eb39d786b0",
+        "Value": 10.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "da7ff06c61da374da5f526e10a9b0629",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "cadd2557633002469cce14ba34dcda05",
+        "Value": 10.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "a5d5468d10057f4e89dc740e6a29e1f1",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "7c278cd58280dd44972fa08b283906c7",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "fb6def697d7dc446945be089ff5757b0",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "34b679e5fc836d458c5e839d9075c06e",
+        "Value": 77.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "dc257ebd58cfd045abcc98c930eaed5e",
+        "Value": 27.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "2e4784bfaff4614cb340dea1b8611743",
+        "Value": 36.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "b787a9dfd242934786b39534939d3e17",
+        "Value": 13.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "a8b3d4e6f87eb549bbdfd70959dc18d4",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "b0ab4b4701a5594da74b7a19419604cb",
+        "Value": 61.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "25b829f99213ee4a9869ec16569d241f",
+        "Value": 115.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "7c278cd58280dd44972fa08b283906c7",
+        "Value": 10.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "ae890e3a5304604da04cc52959de8a77",
+        "Value": 28.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "f782a6a2aeffae418731fe13541fd8cf",
+        "Value": 8.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "b6c420076d16cc4aa68fa7950cdec328",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "a5d5468d10057f4e89dc740e6a29e1f1",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "fd41463ad3932f4ba378132078b3890f",
+        "Value": 10.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "bdcc3f1f8121004f95b22c23d1881082",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "66f2d5273af4cb41bf9bf65907671d9a",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "3e11ee7791d88346bd0e1324827c04ef",
+        "Value": 10.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "fc637f52ca5f664998ccc36dfc83a388",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "3c419ab137e6724b9d1756eb82ec84c9",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "34b679e5fc836d458c5e839d9075c06e",
+        "Value": 85.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "b787a9dfd242934786b39534939d3e17",
+        "Value": 9.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "c282e05dcd38e5468ac2ba9a8c35de5e",
+        "Value": 16.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "c375787852e61f4bae94b13995d73bc4",
+        "Value": 17.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "b0ab4b4701a5594da74b7a19419604cb",
+        "Value": 78.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "2e4784bfaff4614cb340dea1b8611743",
+        "Value": 25.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "67b04c64c431c44297b3a24820163e54",
+        "Value": 9.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "3e11ee7791d88346bd0e1324827c04ef",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "fd41463ad3932f4ba378132078b3890f",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "c375787852e61f4bae94b13995d73bc4",
+        "Value": 9.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "4439a4587274144d8ea7871d78bf413f",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "56ae355d474ec94b9c7eb4eb39d786b0",
+        "Value": 9.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "86fd5f6246223f4e8abe7bb6554d049e",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "c282e05dcd38e5468ac2ba9a8c35de5e",
+        "Value": 8.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "6c4d21996eb2644690dcd3618b5b9c27",
+        "Value": 7.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "7c278cd58280dd44972fa08b283906c7",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "dc257ebd58cfd045abcc98c930eaed5e",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "dc257ebd58cfd045abcc98c930eaed5e",
+        "Value": 19.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "cadd2557633002469cce14ba34dcda05",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "c44aa131f5b988438a19ebadf8d3a354",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "67b04c64c431c44297b3a24820163e54",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "85beb1807e055947aa4b5e43a2372374",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "06ae65fe33c85146a8c0d80304e51e3a",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "f165765dd92a2341a956b7ab7e342570",
+        "Value": 7.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "ff10aa15b8bb8f49983b634c1dfe2cc7",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "d6845a5cfad9e6439cf98a66d80c5d73",
+        "Value": 9.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "b8a82208f7d6ca45a97ca5c44023e640",
+        "Value": 7.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "d786609e70dcf747ad2bbfe093708618",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "e66bb4ba96efe1458bda728f1005013e",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "34b679e5fc836d458c5e839d9075c06e",
+        "Value": 39.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "ae890e3a5304604da04cc52959de8a77",
+        "Value": 21.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "f86b76d826b95b45a16467936927db1b",
+        "Value": 27.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "f165765dd92a2341a956b7ab7e342570",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "75381c780da5e640b49d7f1fffa098ef",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "c282e05dcd38e5468ac2ba9a8c35de5e",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "1303e451de761d4796cd0bd5e2a682e0",
+        "Value": 28.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "fc637f52ca5f664998ccc36dfc83a388",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "25b829f99213ee4a9869ec16569d241f",
+        "Value": 65.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "baaceec8b58dfd48846bd67c16d56b90",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "bdcc3f1f8121004f95b22c23d1881082",
+        "Value": 17.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "c8d72ca0bd467d4f92bee1cb8f09975f",
+        "Value": 17.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "a8b3d4e6f87eb549bbdfd70959dc18d4",
+        "Value": 18.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "f165765dd92a2341a956b7ab7e342570",
+        "Value": 8.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "3c419ab137e6724b9d1756eb82ec84c9",
+        "Value": 15.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "ae890e3a5304604da04cc52959de8a77",
+        "Value": 35.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "f782a6a2aeffae418731fe13541fd8cf",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "b6c420076d16cc4aa68fa7950cdec328",
+        "Value": 18.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "a5d5468d10057f4e89dc740e6a29e1f1",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "d786609e70dcf747ad2bbfe093708618",
+        "Value": 13.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "f06c98a0b831064f814768b1777bcdff",
+        "Value": 7.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "b2f6d678359a8a4a9f5b54f90b9d1d39",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "d1dab4224a7bca4393275e1efdb285af",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "85beb1807e055947aa4b5e43a2372374",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "86fd5f6246223f4e8abe7bb6554d049e",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "c44aa131f5b988438a19ebadf8d3a354",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "3a0ceefa38e9dc49bc0bf2b80d387fae",
+        "Value": 19.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "527833fc053c9e47a20c71c739279263",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "ac1fc6081fe17d4daaeffc8c64aad9c8",
+        "Value": 3183.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "ac92c0f444d4954b99ee8e3d0e0d8c3e",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "0d3fa6b2aa694f45808ac6cc42fe1616",
+        "Value": 11.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "3a0ceefa38e9dc49bc0bf2b80d387fae",
+        "Value": 17.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "06ae65fe33c85146a8c0d80304e51e3a",
+        "Value": 9.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "fc637f52ca5f664998ccc36dfc83a388",
+        "Value": 11.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "1705bd8e32402e4e8a4dcda5e21a4974",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "0b5091cc41a0b548b7f26d35fc87a4a8",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "cb53ca795698c64d8e0e017737a2fe88",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "ff10aa15b8bb8f49983b634c1dfe2cc7",
+        "Value": 8.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "ac92c0f444d4954b99ee8e3d0e0d8c3e",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "39f41f8b87eed544b757ad3084db4a56",
+        "Value": 9.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "baaceec8b58dfd48846bd67c16d56b90",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "d6845a5cfad9e6439cf98a66d80c5d73",
+        "Value": 10.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "56ae355d474ec94b9c7eb4eb39d786b0",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "234d524a08825842a100bcdd77f20476",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "e66bb4ba96efe1458bda728f1005013e",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "ddf8ebb0b8558047a286d72057aadf33",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "314ec8797cc6444ea8683416d9e394f3",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "00b4ce05ae3fb64faad54777f20fc3ba",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "ef9bfe8e66c7064fbcbf260ff058fd39",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "ca6cc44c8148554dbd469f2224870718",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "66f2d5273af4cb41bf9bf65907671d9a",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "4439a4587274144d8ea7871d78bf413f",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "3a0ceefa38e9dc49bc0bf2b80d387fae",
+        "Value": 14.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "0d3fa6b2aa694f45808ac6cc42fe1616",
+        "Value": 7.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "7c278cd58280dd44972fa08b283906c7",
+        "Value": 7.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "1fe5c65555717c4a8ecf25a7dea1a71e",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "aefccea9b9762b418b7402de9b27117a",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "86fd5f6246223f4e8abe7bb6554d049e",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "0d3fa6b2aa694f45808ac6cc42fe1616",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "ed18ff9ba468d842905bdc5d6a3af753",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "4439a4587274144d8ea7871d78bf413f",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "111bdae028b21c409579d6f7ff5be606",
+        "Value": 31.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "67b04c64c431c44297b3a24820163e54",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "1fe5c65555717c4a8ecf25a7dea1a71e",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "39f41f8b87eed544b757ad3084db4a56",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "3c419ab137e6724b9d1756eb82ec84c9",
+        "Value": 8.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "d6845a5cfad9e6439cf98a66d80c5d73",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "aefccea9b9762b418b7402de9b27117a",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "b0ab4b4701a5594da74b7a19419604cb",
+        "Value": 22.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "1705bd8e32402e4e8a4dcda5e21a4974",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "86fd5f6246223f4e8abe7bb6554d049e",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "a8b3d4e6f87eb549bbdfd70959dc18d4",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "56ae355d474ec94b9c7eb4eb39d786b0",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "b787a9dfd242934786b39534939d3e17",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "1705bd8e32402e4e8a4dcda5e21a4974",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "d786609e70dcf747ad2bbfe093708618",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "6c4d21996eb2644690dcd3618b5b9c27",
+        "Value": 8.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "2e4784bfaff4614cb340dea1b8611743",
+        "Value": 19.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "1fe5c65555717c4a8ecf25a7dea1a71e",
+        "Value": 17.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "aefccea9b9762b418b7402de9b27117a",
+        "Value": 17.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "ca6cc44c8148554dbd469f2224870718",
+        "Value": 7.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "be48185532f49d45be45a4bf5efaa4cc",
+        "Value": 30.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "ef9bfe8e66c7064fbcbf260ff058fd39",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "3a0ceefa38e9dc49bc0bf2b80d387fae",
+        "Value": 12.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "00b4ce05ae3fb64faad54777f20fc3ba",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "be48185532f49d45be45a4bf5efaa4cc",
+        "Value": 13.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "0d3fa6b2aa694f45808ac6cc42fe1616",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "be48185532f49d45be45a4bf5efaa4cc",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "25b829f99213ee4a9869ec16569d241f",
+        "Value": 80.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "2b58f4d1b7fecf4db68169e50bc63cc3",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "b2f6d678359a8a4a9f5b54f90b9d1d39",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "ed18ff9ba468d842905bdc5d6a3af753",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "527833fc053c9e47a20c71c739279263",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "ac1fc6081fe17d4daaeffc8c64aad9c8",
+        "Value": 3158.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "ed18ff9ba468d842905bdc5d6a3af753",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "ca6cc44c8148554dbd469f2224870718",
+        "Value": 6.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "cadd2557633002469cce14ba34dcda05",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "b8a82208f7d6ca45a97ca5c44023e640",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "be48185532f49d45be45a4bf5efaa4cc",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "c8d72ca0bd467d4f92bee1cb8f09975f",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "f06c98a0b831064f814768b1777bcdff",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "ef9bfe8e66c7064fbcbf260ff058fd39",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "234d524a08825842a100bcdd77f20476",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "5c98d1fe116d004da8d159bd322386ff",
+        "Value": 20.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "3e11ee7791d88346bd0e1324827c04ef",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "e66bb4ba96efe1458bda728f1005013e",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "5c98d1fe116d004da8d159bd322386ff",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "ab69dd4c2fb28842a666841e9b43cb8a",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "ef9bfe8e66c7064fbcbf260ff058fd39",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "1fe5c65555717c4a8ecf25a7dea1a71e",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "aefccea9b9762b418b7402de9b27117a",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "1705bd8e32402e4e8a4dcda5e21a4974",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "234d524a08825842a100bcdd77f20476",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "00b4ce05ae3fb64faad54777f20fc3ba",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "5c98d1fe116d004da8d159bd322386ff",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "f782a6a2aeffae418731fe13541fd8cf",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "ac92c0f444d4954b99ee8e3d0e0d8c3e",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "66f2d5273af4cb41bf9bf65907671d9a",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "baaceec8b58dfd48846bd67c16d56b90",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "ff10aa15b8bb8f49983b634c1dfe2cc7",
+        "Value": 5.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "ca6cc44c8148554dbd469f2224870718",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "5c98d1fe116d004da8d159bd322386ff",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "007683095fcff84595d6475228d78133",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "f59d016eb340534a9b392ac17f734598",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "fd8044909d293c4abb6a30c4c8d16c65",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "f59d016eb340534a9b392ac17f734598",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "a9610daa691fe84aadaee9fd5c750c76",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "f59d016eb340534a9b392ac17f734598",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "007683095fcff84595d6475228d78133",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "f59d016eb340534a9b392ac17f734598",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "c375787852e61f4bae94b13995d73bc4",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "a128c89baecd5b4ca55e591ea1657604",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "a72ef40e61b7104cb2199b81dceb307e",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "e60541cdf7be654ca7c78df075bcd925",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "007683095fcff84595d6475228d78133",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "a128c89baecd5b4ca55e591ea1657604",
+        "Value": 4.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "b770e8ab5f0ffa48aa764d839c092f5d",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "a72ef40e61b7104cb2199b81dceb307e",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "MissionStatID": "3796ad72af4695419f71d5a88c485a64",
+        "Value": 8.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "3796ad72af4695419f71d5a88c485a64",
+        "Value": 11.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "06ae65fe33c85146a8c0d80304e51e3a",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "b6c420076d16cc4aa68fa7950cdec328",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "85beb1807e055947aa4b5e43a2372374",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "4439a4587274144d8ea7871d78bf413f",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "fd8044909d293c4abb6a30c4c8d16c65",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "b770e8ab5f0ffa48aa764d839c092f5d",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "a128c89baecd5b4ca55e591ea1657604",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "3796ad72af4695419f71d5a88c485a64",
+        "Value": 3.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "527833fc053c9e47a20c71c739279263",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "MissionStatID": "ac1fc6081fe17d4daaeffc8c64aad9c8",
+        "Value": 3566.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "007683095fcff84595d6475228d78133",
+        "Value": 2.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "4d9fe46706252a42ab5ced528f37b437",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "a5d5468d10057f4e89dc740e6a29e1f1",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "234d524a08825842a100bcdd77f20476",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "fd41463ad3932f4ba378132078b3890f",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "bdcc3f1f8121004f95b22c23d1881082",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "fd8044909d293c4abb6a30c4c8d16c65",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "4d9fe46706252a42ab5ced528f37b437",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "MissionStatID": "0b5091cc41a0b548b7f26d35fc87a4a8",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "527833fc053c9e47a20c71c739279263",
+        "Value": 1.0,
+        "_type": "MissionStatCounter"
+      },
+      {
+        "PlayerClassID": "ae56e180fec0c44d96fa29c28366b97b",
+        "MissionStatID": "ac1fc6081fe17d4daaeffc8c64aad9c8",
+        "Value": 4481.0,
+        "_type": "MissionStatCounter"
+      }
+    ],
+    "bCharacterLevelUpFixed": true,
+    "bBoughtVanityItemsFixed": true,
+    "bBoughtEquipmentUpgradesFixed": true,
+    "bCampaignsCompletedFixed": true,
+    "WeaponUpgradesFixed": true,
+    "_type": "MissionStatSave"
+  },
+  "Milestones": {
+    "ClaimedKPIRewards": [
+      {
+        "KPIGuid": "e06479f5dff94e498258a84b4048436a",
+        "Tier": 4,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "d1c9a31f07d0f6498ea46a2445158c7e",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "03828bb19ab4024c95612b5822a3a0c4",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "909676e973645949a02e76c8add368af",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "951835c4e28a2345a91f64c2adb5c1ee",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "59846cab1ae25241b04ace39f054eddd",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "6d835a843a450b43b5a6ecd18dbe3233",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "e18e6bae4d754f46b23a885fad9ad4c3",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "4ee3f7b113c1cb4f95786c5dfef67805",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "6912fa0236a2a04c9f2f2f9b0a9dcceb",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "c6574431a7436a40adecef559657389e",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "9909e18e57da6749aa1f9304435551e4",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "f7d21a7dec9b20479e3feec48fd7854d",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "142c828241c4ed44ad328db236c48e39",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "7196a9968ea16e489f62bff56aec6166",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "9b086787e8463e48ac00b8b4e6381143",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "b219ef63e1b9c34384737c9ce3f933be",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "ad8609a6de4c7b4d89b77bf4480d8556",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "9ca09c69d1782b4ebe856888e82a6d8e",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "426ff633995f5b44bc1c969902fea8b7",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "5257b28885408f4f9693388ff04de325",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "06136740129576459337abf137a9097a",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "9226dc6fca5f9c418c01d28774ee5c4d",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "fa382ce629be7f4eaa65e9b72f094716",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "cf5ec37faed40e4ead57cec8166ed307",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "88a5e7ec7616cd4680229634ea0f4f24",
+        "Tier": 3,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "579e5eec457196419f098353a6fb4020",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "5ce6ed51a0b637448c45897bd5d58839",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "c6f1132818469c4eaec7cda151120f93",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "859303292bf5fd4fa79ef5a44befe2fd",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "6acb7e85e6d8034ea810328333c7530f",
+        "Tier": 4,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "388339a4da72b646986975ad1fd901f7",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "4c5033b0ee473c46bc072b53ecff8068",
+        "Tier": 4,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "c4adeaeb3a13ac469f9d71e78bba50f6",
+        "Tier": 1,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "04b4eb2e3ee8444aad7d636f7f57d16a",
+        "Tier": 3,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "21e25b7775974b42bb35afe908bee2ea",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "368fed3397868f40ae2998f50245e549",
+        "Tier": 4,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "22ca69f7c7c17d4cbdc63d2939e24c35",
+        "Tier": 2,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "5dd346564e2afa458f4c25a92f4dff05",
+        "Tier": 1,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "f3ed67aaa6668c45b82049a889f36462",
+        "Tier": 4,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "5b12f28fe245814281e34e3d70b610d8",
+        "Tier": 3,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "2c0ce79da9feb24ea3d868f5b751916f",
+        "Tier": 3,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "e8c93f430b2ef54f80e80962ec68be22",
+        "Tier": 3,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "cc991689910ae24da230b7e219704c98",
+        "Tier": 1,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "6dce74f6d022944996b6461caad3d78b",
+        "Tier": 1,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "69ad6ddb5d434e4499ba5813f6622813",
+        "Tier": 2,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "d64471923213df4da9682c5bc300cb0b",
+        "Tier": 3,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "77872283f5065643b7967e4cb6fedcba",
+        "Tier": 2,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "274377be27be9148b12e860f57771df7",
+        "Tier": 3,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "b1cd5d0ce4282e41800c8300aa68f625",
+        "Tier": 4,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "4d8b2c922b3d0a48a5151e5605908245",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "359f03c54a414e4092d9b620751062aa",
+        "Tier": 5,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "71218ef3eb0b174098c8bbe020ae637e",
+        "Tier": 2,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "683491cc4bb0d54e9b03526794ecb263",
+        "Tier": 2,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "57e1af3fac5d90458276cba86117ed04",
+        "Tier": 3,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "86a3ccb6a336c6419d163f19ef06871f",
+        "Tier": 2,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "2dda7832c91686428c70030bc82c2d99",
+        "Tier": 2,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "310d49184a4cd84aa37501295cb5231d",
+        "Tier": 2,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "2e2b9e8dc74914449cbbb217a5424744",
+        "Tier": 2,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "97d641022a1bca48b53fac8c6f661a43",
+        "Tier": 1,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "83b36d4287333b4b8ae75728108f2037",
+        "Tier": 1,
+        "_type": "MilestoneCounter"
+      },
+      {
+        "KPIGuid": "d516ab716e1e3c49a2611b453f6fffe7",
+        "Tier": 1,
+        "_type": "MilestoneCounter"
+      }
+    ],
+    "_type": "MilestoneSave"
+  },
+  "OwnedPerks": {
+    "PerkEntries": [
+      {
+        "PerkID": "2d12bc736ec4144eae3b1411adb105e4",
+        "currentRank": 3,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "c36726fddd1ffe4bb2aa1b109f445b80",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "98babb0f4bc27346acac8a36abcd4f57",
+        "currentRank": 1,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "a55a06ce8632bd4d93314f690ae63bf8",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "1985f5de43f71e48814f81ce35579027",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "a9d732f171c6ad4a9521658083be37bd",
+        "currentRank": 3,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "05e82223d3b80945ae829835c079592c",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "0dd8003bad5d634f8316b4b60d6f267f",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "ced1b19041017d48a010c274064a2c67",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "8b27dfbe016f4d43859b22ac0948ad88",
+        "currentRank": 2,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "5ab55a45804ce147a487ebbf31f8c252",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "66fe47da4cb2e34ea8ad641e8e0f0949",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "f747e1d81bba744980e385e8610d11a6",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "5de517d9763b1a4e976f2f04466861bf",
+        "currentRank": 3,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "2f13340b6c859c40a019751a6367f8cb",
+        "currentRank": 3,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "70fd1cebe09c6749b6fc19f9284b9400",
+        "currentRank": 3,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "0bffd56dced448408fe07ce20381f954",
+        "currentRank": 3,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "e9b341298b0c88428dec3b1e390a4024",
+        "currentRank": 2,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "eb7a23f8cdc39d41b710827a4b685719",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "6d3354b4ba234f4cbffd56672a412b73",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "f1c8abae7b32df4e861a13cffbf46241",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "b7422c61ab0dcd4ca0a4a76aa018281e",
+        "currentRank": 3,
+        "_type": "PerkClaimEntry"
+      },
+      {
+        "PerkID": "3050f48dff6ec542ad2a18ca8d20f705",
+        "currentRank": 4,
+        "_type": "PerkClaimEntry"
+      }
+    ],
+    "HasResetPerks2": true,
+    "_type": "PerkClaimsSave"
+  },
+  "AchievementSave": {
+    "AchievementEntries": [
+      {
+        "AchievementSaveID": "0fe7a916e72954448c4603366d44ef0a",
+        "HighestSavedProgress": 0.0,
+        "CurrentProgress": 0.0,
+        "_type": "AchievementSaveEntry"
+      },
+      {
+        "AchievementSaveID": "eb71c9219004ac4984b7f24c65b7b913",
+        "HighestSavedProgress": 0.0,
+        "CurrentProgress": 0.0,
+        "_type": "AchievementSaveEntry"
+      },
+      {
+        "AchievementSaveID": "f6306ae726b69f4fb47b2608627e22bc",
+        "HighestSavedProgress": 0.0,
+        "CurrentProgress": 0.0,
+        "_type": "AchievementSaveEntry"
+      },
+      {
+        "AchievementSaveID": "ed03b1978d0bf44db2237bce0bd0d7c3",
+        "HighestSavedProgress": 0.0,
+        "CurrentProgress": 0.0,
+        "_type": "AchievementSaveEntry"
+      }
+    ],
+    "_type": "AchievementSave"
+  },
+  "EquippedPerkLoadouts": [
+    {
+      "CharacterPerks": [
+        {
+          "characterID": "30d8ea17d8fbba4c95306de9655c2f8c",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        },
+        {
+          "characterID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        },
+        {
+          "characterID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        },
+        {
+          "characterID": "ae56e180fec0c44d96fa29c28366b97b",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        }
+      ],
+      "_type": "CharacterPerksSave"
+    },
+    {
+      "CharacterPerks": [
+        {
+          "characterID": "30d8ea17d8fbba4c95306de9655c2f8c",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        },
+        {
+          "characterID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        },
+        {
+          "characterID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        },
+        {
+          "characterID": "ae56e180fec0c44d96fa29c28366b97b",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        }
+      ],
+      "_type": "CharacterPerksSave"
+    },
+    {
+      "CharacterPerks": [
+        {
+          "characterID": "30d8ea17d8fbba4c95306de9655c2f8c",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        },
+        {
+          "characterID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        },
+        {
+          "characterID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        },
+        {
+          "characterID": "ae56e180fec0c44d96fa29c28366b97b",
+          "PerkIDs": [
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            },
+            {
+              "_type": "Guid"
+            }
+          ],
+          "_type": "PerkEquipEntry"
+        }
+      ],
+      "_type": "CharacterPerksSave"
+    },
+    {
+      "CharacterPerks": [],
+      "_type": "CharacterPerksSave"
+    },
+    {
+      "CharacterPerks": [],
+      "_type": "CharacterPerksSave"
+    },
+    {
+      "CharacterPerks": [],
+      "_type": "CharacterPerksSave"
+    },
+    {
+      "CharacterPerks": [],
+      "_type": "CharacterPerksSave"
+    }
+  ],
+  "RandomEquippedPerkLoadout": {
+    "CharacterPerks": [
+      {
+        "characterID": "9edd56f1eebcc5488d5b5e5b80b62db4",
+        "PerkIDs": [
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          }
+        ],
+        "_type": "PerkEquipEntry"
+      },
+      {
+        "characterID": "85ef626c65f1024a8dfeb5d0f3909d2e",
+        "PerkIDs": [
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          }
+        ],
+        "_type": "PerkEquipEntry"
+      },
+      {
+        "characterID": "ae56e180fec0c44d96fa29c28366b97b",
+        "PerkIDs": [
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          }
+        ],
+        "_type": "PerkEquipEntry"
+      },
+      {
+        "characterID": "30d8ea17d8fbba4c95306de9655c2f8c",
+        "PerkIDs": [
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          },
+          {
+            "_type": "Guid"
+          }
+        ],
+        "_type": "PerkEquipEntry"
+      }
+    ],
+    "_type": "CharacterPerksSave"
+  },
+  "VanityMasterySave": {
+    "Level": 28,
+    "XP": 14190,
+    "HasAwardedForOldPurchases": true,
+    "_type": "VanityMasterySave"
+  },
+  "OnVanityMasteryChanged": "[MulticastInlineDelegateProperty size=154 skipped]",
+  "JettyBootsSave": {
+    "HighScores": [
+      {
+        "PlayerName": "Bosco",
+        "Score": 33,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Gravn",
+        "Score": 33,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Lloyd",
+        "Score": 31,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Lloyd",
+        "Score": 29,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Lloyd",
+        "Score": 27,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Lloyd",
+        "Score": 25,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Bosco",
+        "Score": 24,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "MC",
+        "Score": 22,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Bosco",
+        "Score": 22,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Lloyd",
+        "Score": 20,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "MC",
+        "Score": 19,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Spec",
+        "Score": 19,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Ch\u00e9tif",
+        "Score": 18,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "Enobarbux",
+        "Score": 17,
+        "_type": "JettyBootsScore"
+      },
+      {
+        "PlayerName": "MC",
+        "Score": 17,
+        "_type": "JettyBootsScore"
+      }
+    ],
+    "bInitializeNPCs": false,
+    "LastHighScoreIndex": 3,
+    "_type": "JettyBootsSave"
+  },
+  "SchematicSave": {
+    "bFirstSchematicMessageShown": true,
+    "ForgedSchematics": [
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      }
+    ],
+    "OwnedSchematics": [
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      },
+      {
+        "_type": "Guid"
+      }
+    ],
+    "SkinFixupCounter": 4,
+    "_type": "SchematicSave"
+  },
+  "FSDEventRewardsSave": {
+    "EventsSeen": "[SetProperty size=152 skipped]",
+    "_type": "FSDEventRewardsSave"
+  },
+  "SeasonSave": {
+    "HasFixedUpRewardsRemovedInSeasonFiveV2": true,
+    "HasFixedUpSeason3EventScripClaimed": true,
+    "HasFixedUpSeason3And4EventScripClaimedToGeneralization": true,
+    "Seasons": "[MapProperty size=34773 skipped]",
+    "_type": "SeasonSave"
+  },
+  "OnWeaponMaintenanceChanged": "[MulticastInlineDelegateProperty size=144 skipped]",
+  "WeaponMaintenance": {
+    "Entries": [
+      {
+        "WeaponID": "79e91bf15ac1694ba7987c696959c0d1",
+        "XP": 1511,
+        "Level": 1,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "9736ee110d4c8749a224af6f2dba0160",
+        "XP": 34049,
+        "Level": 2,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "82082aab25319f43b43a8458f5228e8c",
+        "XP": 34158,
+        "Level": 4,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "9d772549a4b54045a1377f38795655c1",
+        "XP": 36596,
+        "Level": 2,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "ddb5da9086cd4442af6006de2a4390a9",
+        "XP": 19210,
+        "Level": 4,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "501a4f4ccc24cb42b0287f2af9ae120d",
+        "XP": 19210,
+        "Level": 4,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "299fdb2466194e419c213eed4b50fa02",
+        "XP": 15887,
+        "Level": 3,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "df573b09420b2e408bce3ab9d36542f8",
+        "XP": 18250,
+        "Level": 4,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "d8a5f7f6bd131d45acbd2cfe7e5416cc",
+        "XP": 39710,
+        "Level": 2,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "b95edec1bddb1c478e5dc57322105134",
+        "XP": 31212,
+        "Level": 2,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "b66739f359a40443b70d9bacf8aa2d39",
+        "XP": 27153,
+        "Level": 1,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "28d22472c409224eaffacac8b1377287",
+        "XP": 4189,
+        "Level": 2,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "4e96f432d0182343a62e81d821a1480f",
+        "XP": 13026,
+        "Level": 1,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "f1985b1c74c1a548b789b8ac8517fe4e",
+        "XP": 6351,
+        "Level": 2,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "192ac9d763b05942a4a92436658cdac2",
+        "XP": 11433,
+        "Level": 0,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "f9cc8dcbb9ebc44f9b0cb80d58f30031",
+        "XP": 4397,
+        "Level": 0,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "a3ed6a8ace08cd4db471a10c697b6b64",
+        "XP": 17672,
+        "Level": 0,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      },
+      {
+        "WeaponID": "3df53ab5b7f66048b686f785f634e5a4",
+        "XP": 7538,
+        "Level": 2,
+        "LevelUpNotification": false,
+        "_type": "WeaponMaintenanceEntry"
+      }
+    ],
+    "_type": "WeaponMaintenance"
+  },
+  "SaveCreatedInPatch": 30,
+  "AnonymousID": "11119122512819281186481348225376117206147506652196",
+  "PerkPoints": 87,
+  "UnLockedMissions": [
+    {
+      "_type": "Guid"
+    },
+    {
+      "_type": "Guid"
+    },
+    {
+      "_type": "Guid"
+    },
+    {
+      "_type": "Guid"
+    },
+    {
+      "_type": "Guid"
+    },
+    {
+      "_type": "Guid"
+    },
+    {
+      "_type": "Guid"
+    },
+    {
+      "_type": "Guid"
+    },
+    {
+      "_type": "Guid"
+    }
+  ],
+  "UnLockedMissionParameters": "[MapProperty size=2102 skipped]"
+}

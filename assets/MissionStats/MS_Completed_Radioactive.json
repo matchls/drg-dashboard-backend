@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Radioactive",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Radioactive",
+    "Properties": {
+      "SaveGameID": "DFA987B7-479342D2-3495B386-173E9D93",
+      "Title": {
+        "Namespace": "",
+        "Key": "083EB4E74914219E2F964E874C2660CF",
+        "SourceString": "Radioactive Exclusion Zone Missions Completed",
+        "LocalizedString": "Radioactive Exclusion Zone Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Bioms'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

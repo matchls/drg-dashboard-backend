@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Lush",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Lush",
+    "Properties": {
+      "SaveGameID": "A2A682F7-41AEFFAE-13FE3187-CFD81F54",
+      "Title": {
+        "Namespace": "",
+        "Key": "0B9C58F542172778A7057FADD52AB778",
+        "SourceString": "Dense Biozone Missions Completed",
+        "LocalizedString": "Dense Biozone Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Bioms'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

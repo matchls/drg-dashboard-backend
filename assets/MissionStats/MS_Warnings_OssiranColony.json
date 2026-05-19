@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_OssiranColony",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_OssiranColony",
+    "Properties": {
+      "SaveGameID": "CD4105E6-4C65BEF7-F08DC7A7-25D9BC75",
+      "Title": {
+        "Namespace": "",
+        "Key": "30A1CA0B461B03A6B8522FA3504086FF",
+        "SourceString": "'Pit Jaw Colony' Warnings Completed",
+        "LocalizedString": "'Pit Jaw Colony' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

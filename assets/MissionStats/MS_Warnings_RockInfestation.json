@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_RockInfestation",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_RockInfestation",
+    "Properties": {
+      "SaveGameID": "EF5ABB1F-469D1BA4-A800FD9C-DA1B4099",
+      "Title": {
+        "Namespace": "",
+        "Key": "92AE0FD746CEE3D6C40001AE58FC29AF",
+        "SourceString": "'Ebonite Outbreak' Warnings Completed",
+        "LocalizedString": "'Ebonite Outbreak' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

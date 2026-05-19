@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Assignments_Promoted_Weekly",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Assignments_Promoted_Weekly",
+    "Properties": {
+      "SaveGameID": "05CEB400-4FB63FAE-7747D5AA-BAC30FF2",
+      "Title": {
+        "Namespace": "",
+        "Key": "351A1B504372CB4BD59337A7677721A0",
+        "SourceString": "Weekly Core Hunt Completed",
+        "LocalizedString": "Weekly Core Hunt Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Assignments'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Assignments.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

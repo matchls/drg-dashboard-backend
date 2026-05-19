@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_DeepDive_Secondary",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_DeepDive_Secondary",
+    "Properties": {
+      "SaveGameID": "189316A3-4AF8DD77-62E97C95-C8A2BA3D",
+      "Title": {
+        "Namespace": "",
+        "Key": "234BEC3A45FFDA5A00500E92020897ED",
+        "SourceString": "Mining Expeditions Completed",
+        "LocalizedString": "Mining Expeditions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_DeepDives'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_DeepDives.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

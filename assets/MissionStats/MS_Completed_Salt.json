@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Salt",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Salt",
+    "Properties": {
+      "SaveGameID": "5725DDCA-46023063-BA14CE9C-05DADC34",
+      "Title": {
+        "Namespace": "",
+        "Key": "936157E4482219D6BC45FE8898B9572C",
+        "SourceString": "Salt Pits Missions Completed",
+        "LocalizedString": "Salt Pits Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Bioms'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

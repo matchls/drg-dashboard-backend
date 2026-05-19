@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Crafting_Mastery",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Crafting_Mastery",
+    "Properties": {
+      "SaveGameID": "4CC46CCA-4D554881-229F46BD-18078724",
+      "Title": {
+        "Namespace": "",
+        "Key": "E843473D4C2BDE3A10E1CBBE744927DE",
+        "SourceString": "Forging Mastery Levels Achieved",
+        "LocalizedString": "Forging Mastery Levels Achieved"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Forging'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Forging.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

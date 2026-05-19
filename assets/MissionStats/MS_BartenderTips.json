@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_BartenderTips",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_BartenderTips",
+    "Properties": {
+      "SaveGameID": "F929B825-4AEE1392-16EC6998-1F249D56",
+      "Title": {
+        "Namespace": "",
+        "Key": "4564690242B7FFA078155A8D5A273E47",
+        "SourceString": "Total Credits Tipped",
+        "LocalizedString": "Total Credits Tipped"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Drinkables'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Drinkables.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

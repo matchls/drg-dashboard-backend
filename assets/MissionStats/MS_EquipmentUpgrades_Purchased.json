@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_EquipmentUpgrades_Purchased",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_EquipmentUpgrades_Purchased",
+    "Properties": {
+      "SaveGameID": "E579B634-456D83FC-9D835E8C-6EC07590",
+      "Title": {
+        "Namespace": "",
+        "Key": "9708414843BB4080C9EA08803F014CD8",
+        "SourceString": "Equipment Upgrades Purchased",
+        "LocalizedString": "Equipment Upgrades Purchased"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Purchased'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Purchased.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

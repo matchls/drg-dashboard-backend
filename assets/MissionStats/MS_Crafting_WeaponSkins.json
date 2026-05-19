@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Crafting_WeaponSkins",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Crafting_WeaponSkins",
+    "Properties": {
+      "SaveGameID": "8EFE9BEF-4F06C766-0F26BFBC-39FD58F0",
+      "Title": {
+        "Namespace": "",
+        "Key": "9619555A49C63867786168B8A1E2BD6E",
+        "SourceString": "Weapon Skins Forged",
+        "LocalizedString": "Weapon Skins Forged"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Forging'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Forging.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_SeasonEvents",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_SeasonEvents",
+    "Properties": {
+      "SaveGameID": "3A0E89AE-4D600453-29C54CA0-778ADE59",
+      "Title": {
+        "Namespace": "",
+        "Key": "184ED46245BB62846A7375AA7314C786",
+        "SourceString": "Season Events Completed",
+        "LocalizedString": "Season Events Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Seasons'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Seasons.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

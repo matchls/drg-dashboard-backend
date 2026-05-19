@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_BulletHell",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_BulletHell",
+    "Properties": {
+      "SaveGameID": "5DFF63C8-4DB9D4D6-201F178C-C3B564E1",
+      "Title": {
+        "Namespace": "",
+        "Key": "ADD2F4BA45271AAF8AFD8F9DC174268F",
+        "SourceString": "'Duck and Cover' Warnings Completed",
+        "LocalizedString": "'Duck and Cover' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

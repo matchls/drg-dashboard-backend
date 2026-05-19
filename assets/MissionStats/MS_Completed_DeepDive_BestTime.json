@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_DeepDive_BestTime",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_DeepDive_BestTime",
+    "Properties": {
+      "SaveGameID": "08C61FAC-4D7DE11F-8CFCEFAA-C8D9AA64",
+      "Title": {
+        "Namespace": "",
+        "Key": "7F07D78E470B7618BD23A8B990C89E19",
+        "SourceString": "Best Deep Dive Completion Time",
+        "LocalizedString": "Best Deep Dive Completion Time"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_DeepDives'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_DeepDives.0"
+      },
+      "MissionStatType": "EMissionStatType::Time",
+      "ShowAllValuesCombined": false,
+      "ShowHighestValue": false
+    }
+  }
+]

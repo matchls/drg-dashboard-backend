@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Assignments_Weekly",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Assignments_Weekly",
+    "Properties": {
+      "SaveGameID": "79C84E31-4E44C67C-163468A8-F394E3D9",
+      "Title": {
+        "Namespace": "",
+        "Key": "EABB5E3E429B52D1DBD4F484AAA67C81",
+        "SourceString": "Weekly Assignments Completed",
+        "LocalizedString": "Weekly Assignments Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Assignments'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Assignments.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

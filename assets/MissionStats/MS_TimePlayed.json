@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_TimePlayed",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_TimePlayed",
+    "Properties": {
+      "SaveGameID": "5D1FF257-44195F73-39638AB0-A76DCD5C",
+      "Title": {
+        "Namespace": "",
+        "Key": "0F5DEE5E4760C31F00CA03B68EBA6C1C",
+        "SourceString": "Mission Time",
+        "LocalizedString": "Mission Time"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Time'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Time.0"
+      },
+      "MissionStatType": "EMissionStatType::Time"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_DataCells_Collected",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_DataCells_Collected",
+    "Properties": {
+      "SaveGameID": "ABE870B7-48FA0F5F-834D76AA-5D2F099C",
+      "Title": {
+        "Namespace": "",
+        "Key": "D8BE5791419A6F5EA4777BBFD01C95AC",
+        "SourceString": "Data Cells Collected",
+        "LocalizedString": "Data Cells Collected"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Seasons'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Seasons.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "ShowHighestValue": false
+    }
+  }
+]

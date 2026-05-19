@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Plague_Cleaned",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Plague_Cleaned",
+    "Properties": {
+      "SaveGameID": "A9CEFCAE-412B76B9-DE02748B-7A11279B",
+      "Title": {
+        "Namespace": "",
+        "Key": "F0FE1D364FE0BD6C9D09BA9502252ED5",
+        "SourceString": "Plague Removed",
+        "LocalizedString": "Plague Removed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Seasons'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Seasons.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "ShowHighestValue": false
+    }
+  }
+]

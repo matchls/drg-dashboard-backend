@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_DistanceTravelled",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_DistanceTravelled",
+    "Properties": {
+      "SaveGameID": "6FC303F8-47BF1775-3B060292-C6685BBE",
+      "Title": {
+        "Namespace": "",
+        "Key": "16D1CFBC4B03B4DAA1B0A69179792B85",
+        "SourceString": "Distance Travelled",
+        "LocalizedString": "Distance Travelled"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Distance'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Distance.0"
+      },
+      "MissionStatType": "EMissionStatType::Distance"
+    }
+  }
+]

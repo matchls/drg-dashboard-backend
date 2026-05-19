@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_PlagueHeartsCollected_S03",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_PlagueHeartsCollected_S03",
+    "Properties": {
+      "SaveGameID": "551848BE-459DF432-BFA445BE-CCA4FA5E",
+      "Title": {
+        "Namespace": "",
+        "Key": "51EDCB464A7F4BB16F410EA7B7050D02",
+        "SourceString": "Plaguehearts Collected",
+        "LocalizedString": "Plaguehearts Collected"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Seasons'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Seasons.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "ShowHighestValue": false
+    }
+  }
+]

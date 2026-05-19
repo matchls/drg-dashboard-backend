@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Kills",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Kills",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "63CFD42A449C5B01D2D77AB41387D402",
+        "SourceString": "Extermination",
+        "LocalizedString": "Extermination"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_Killed'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_Misc/Icon_Killed.0"
+      }
+    }
+  }
+]

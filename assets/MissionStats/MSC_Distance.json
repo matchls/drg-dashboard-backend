@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Distance",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Distance",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "665C68DF48B231010EDB4B8B731C6BDE",
+        "SourceString": "Distance",
+        "LocalizedString": "Distance"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_MissionLength'",
+        "ObjectPath": "FSD/Content/UI/Menu_MissionSelectionMK3/Assets/Icon_MissionLength.0"
+      }
+    }
+  }
+]

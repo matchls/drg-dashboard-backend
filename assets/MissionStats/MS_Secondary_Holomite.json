@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_Holomite",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_Holomite",
+    "Properties": {
+      "SaveGameID": "527F63FC-49665FCA-6DC3CC98-88A383FC",
+      "Title": {
+        "Namespace": "",
+        "Key": "A1AB19A6476AB106B4A3869739E2DD27",
+        "SourceString": "Hollomite Secondary Missions Completed",
+        "LocalizedString": "Hollomite Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

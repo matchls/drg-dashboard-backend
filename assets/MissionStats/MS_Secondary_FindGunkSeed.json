@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_FindGunkSeed",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_FindGunkSeed",
+    "Properties": {
+      "SaveGameID": "5C5A84D6-43E6D9FA-668AF99C-735D0CD8",
+      "Title": {
+        "Namespace": "",
+        "Key": "EDEB96B14AC0B6E8F1CB47A61CF75FFE",
+        "SourceString": "Gunk Seed Secondary Missions Completed",
+        "LocalizedString": "Gunk Seed Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

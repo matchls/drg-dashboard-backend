@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_VanityItems_Purchased",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_VanityItems_Purchased",
+    "Properties": {
+      "SaveGameID": "BD7E25DC-45D0CF58-C998CCAB-5EEDEA30",
+      "Title": {
+        "Namespace": "",
+        "Key": "7EC4EC1541B15DF2BEE7BBB686BD44B7",
+        "SourceString": "Accessory Items Purchased",
+        "LocalizedString": "Accessory Items Purchased"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Purchased'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Purchased.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

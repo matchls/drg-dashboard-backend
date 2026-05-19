@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_ApocaBloom",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_ApocaBloom",
+    "Properties": {
+      "SaveGameID": "1F3FCCBD-4F002181-232CB295-821088D1",
+      "Title": {
+        "Namespace": "",
+        "Key": "FBA82E064BE2914C079FBBADB5FEE707",
+        "SourceString": "Apoca Bloom Secondary Missions Completed",
+        "LocalizedString": "Apoca Bloom Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

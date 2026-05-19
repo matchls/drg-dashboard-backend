@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_IceCaves",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_IceCaves",
+    "Properties": {
+      "SaveGameID": "C8EEACBA-48FD8DB5-7CD66B84-906BD516",
+      "Title": {
+        "Namespace": "",
+        "Key": "6887A03E43FB7FF3FB1DDD8B79529BD1",
+        "SourceString": "Glacial Strata Missions Completed",
+        "LocalizedString": "Glacial Strata Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Bioms'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

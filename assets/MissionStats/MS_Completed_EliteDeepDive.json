@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_EliteDeepDive",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_EliteDeepDive",
+    "Properties": {
+      "SaveGameID": "51E9FA05-4F932E89-8225A28C-384387E4",
+      "Title": {
+        "Namespace": "",
+        "Key": "CEECFB74429917E38F9EF390449A20FF",
+        "SourceString": "Elite Deep Dives Completed",
+        "LocalizedString": "Elite Deep Dives Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_DeepDives'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_DeepDives.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

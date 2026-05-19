@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Death_TotalDownsDrunk",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Death_TotalDownsDrunk",
+    "Properties": {
+      "SaveGameID": "F787A18F-4B9AC0D6-398D12B2-363E72CA",
+      "Title": {
+        "Namespace": "",
+        "Key": "F995C39841418E3A97380BBE89CC2DD9",
+        "SourceString": "Times Passed Out Drunk",
+        "LocalizedString": "Times Passed Out Drunk"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Death'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Death.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

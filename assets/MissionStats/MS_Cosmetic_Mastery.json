@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Cosmetic_Mastery",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Cosmetic_Mastery",
+    "Properties": {
+      "SaveGameID": "D58C277C-44DD8082-8BA02F97-C7063928",
+      "Title": {
+        "Namespace": "",
+        "Key": "38B49633410C7B27A9A910A6CF330A01",
+        "SourceString": "Cosmetic Mastery Levels Achieved",
+        "LocalizedString": "Cosmetic Mastery Levels Achieved"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Purchased'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Purchased.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

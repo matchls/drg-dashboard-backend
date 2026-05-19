@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_Swarmageddon",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_Swarmageddon",
+    "Properties": {
+      "SaveGameID": "D1F4582B-4DCFFEB7-E56981B6-C33CC60B",
+      "Title": {
+        "Namespace": "",
+        "Key": "8290203C4339866F0875DB8B1740194F",
+        "SourceString": "'Swarmageddon' Warnings Completed",
+        "LocalizedString": "'Swarmageddon' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

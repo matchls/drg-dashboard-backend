@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_NoOxygen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_NoOxygen",
+    "Properties": {
+      "SaveGameID": "80B1BE85-4759057E-435E4BAA-742337A2",
+      "Title": {
+        "Namespace": "",
+        "Key": "6E90983C48336910B89105A7DAD194F2",
+        "SourceString": "'Low Oxygen' Warnings Completed",
+        "LocalizedString": "'Low Oxygen' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

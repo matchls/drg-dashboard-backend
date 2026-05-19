@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Mined",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Mined",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "7291A611480E881E95370D857E5DEFBA",
+        "SourceString": "Mining",
+        "LocalizedString": "Mining"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_Mining'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_MissionStats/Icon_Mining.0"
+      }
+    }
+  }
+]

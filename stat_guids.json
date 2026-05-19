@@ -1,0 +1,621 @@
+{
+  "categories": {
+    "MSC_Assignments": "MSC_Assignments",
+    "MSC_Bioms": "MSC_Bioms",
+    "MSC_Characters": "MSC_Characters",
+    "MSC_Death": "MSC_Death",
+    "MSC_DeepDives": "MSC_DeepDives",
+    "MSC_Distance": "MSC_Distance",
+    "MSC_Drinkables": "MSC_Drinkables",
+    "MSC_Forging": "MSC_Forging",
+    "MSC_Kills": "MSC_Kills",
+    "MSC_Mined": "MSC_Mined",
+    "MSC_Missions": "MSC_Missions",
+    "MSC_Purchased": "MSC_Purchased",
+    "MSC_Seasons": "MSC_Seasons",
+    "MSC_Time": "MSC_Time",
+    "MSC_Warnings": "MSC_Warnings"
+  },
+  "stats": {
+    "00b4ce05ae3fb64faad54777f20fc3ba": {
+      "name": "MS_Assignments_Promoted_Weekly",
+      "asset_name": "MS_Assignments_Promoted_Weekly",
+      "category": "MSC_Assignments",
+      "type": "Integer"
+    },
+    "fb6def697d7dc446945be089ff5757b0": {
+      "name": "Cleared for Industrial Sabotage missions Completed",
+      "asset_name": "MS_Assignments_Unluck_Facility",
+      "category": "MSC_Assignments",
+      "type": "Integer"
+    },
+    "a5d5468d10057f4e89dc740e6a29e1f1": {
+      "name": "MS_Assignments_WeaponLicenses",
+      "asset_name": "MS_Assignments_WeaponLicenses",
+      "category": "MSC_Assignments",
+      "type": "Integer"
+    },
+    "314ec8797cc6444ea8683416d9e394f3": {
+      "name": "MS_Assignments_Weekly",
+      "asset_name": "MS_Assignments_Weekly",
+      "category": "MSC_Assignments",
+      "type": "Integer"
+    },
+    "25b829f99213ee4a9869ec16569d241f": {
+      "name": "MS_BartenderTips",
+      "asset_name": "MS_BartenderTips",
+      "category": "MSC_Drinkables",
+      "type": "Integer"
+    },
+    "3796ad72af4695419f71d5a88c485a64": {
+      "name": "MS_BoneFragmentCollected_S06",
+      "asset_name": "MS_BoneFragmentCollected_S06",
+      "category": "MSC_Seasons",
+      "type": "Integer"
+    },
+    "f165765dd92a2341a956b7ab7e342570": {
+      "name": "MS_Completed_AzureWeald",
+      "asset_name": "MS_Completed_AzureWeald",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "c8d72ca0bd467d4f92bee1cb8f09975f": {
+      "name": "MS_Completed_Crystal",
+      "asset_name": "MS_Completed_Crystal",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "527833fc053c9e47a20c71c739279263": {
+      "name": "MS_Completed_DeepDive",
+      "asset_name": "MS_Completed_DeepDive",
+      "category": "MSC_DeepDives",
+      "type": "Integer"
+    },
+    "ac1fc6081fe17d4daaeffc8c64aad9c8": {
+      "name": "MS_Completed_DeepDive_BestTime",
+      "asset_name": "MS_Completed_DeepDive_BestTime",
+      "category": "MSC_DeepDives",
+      "type": "Time"
+    },
+    "a316931877ddf84a957ce9623dbaa2c8": {
+      "name": "MS_Completed_DeepDive_Secondary",
+      "asset_name": "MS_Completed_DeepDive_Secondary",
+      "category": "MSC_DeepDives",
+      "type": "Integer"
+    },
+    "007683095fcff84595d6475228d78133": {
+      "name": "MS_Completed_DeepScan",
+      "asset_name": "MS_Completed_DeepScan",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "9a51034d7d1037439a4d94df581ab2a7": {
+      "name": "MS_Completed_Defense",
+      "asset_name": "MS_Completed_Defense",
+      "category": "MSC_DeepDives",
+      "type": "Integer"
+    },
+    "c4897a0f90059c41a5e1b778fcf859af": {
+      "name": "Missions completed as Driller",
+      "asset_name": "MS_Completed_Driller",
+      "category": "MSC_Characters",
+      "type": "Integer"
+    },
+    "39f41f8b87eed544b757ad3084db4a56": {
+      "name": "MS_Completed_EggHunts",
+      "asset_name": "MS_Completed_EggHunts",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "ff10aa15b8bb8f49983b634c1dfe2cc7": {
+      "name": "MS_Completed_EliminationMissions",
+      "asset_name": "MS_Completed_EliminationMissions",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "05fae951892e934f8ca22582e4874338": {
+      "name": "MS_Completed_EliteDeepDive",
+      "asset_name": "MS_Completed_EliteDeepDive",
+      "category": "MSC_DeepDives",
+      "type": "Integer"
+    },
+    "f7203594bca8654b8749b62a5d683aa2": {
+      "name": "MS_Completed_EliteDeepDive_BestTime",
+      "asset_name": "MS_Completed_EliteDeepDive_BestTime",
+      "category": "MSC_DeepDives",
+      "type": "Time"
+    },
+    "d6e1ba9c5d23fa4ab36466778f13da71": {
+      "name": "Missions completed as Engineer",
+      "asset_name": "MS_Completed_Engineer",
+      "category": "MSC_Characters",
+      "type": "Integer"
+    },
+    "d786609e70dcf747ad2bbfe093708618": {
+      "name": "MS_Completed_EscortMissions",
+      "asset_name": "MS_Completed_EscortMissions",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "4439a4587274144d8ea7871d78bf413f": {
+      "name": "MS_Completed_Facility",
+      "asset_name": "MS_Completed_Facility",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "67b04c64c431c44297b3a24820163e54": {
+      "name": "MS_Completed_Fungus",
+      "asset_name": "MS_Completed_Fungus",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "22249055a35db74eb1fe1f32a5047593": {
+      "name": "Missions completed as Gunner",
+      "asset_name": "MS_Completed_Gunner",
+      "category": "MSC_Characters",
+      "type": "Integer"
+    },
+    "b0ab4b4701a5594da74b7a19419604cb": {
+      "name": "MS_Completed_Hazard3",
+      "asset_name": "MS_Completed_Hazard3",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "cb53ca795698c64d8e0e017737a2fe88": {
+      "name": "MS_Completed_Hazard5",
+      "asset_name": "MS_Completed_Hazard5",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "a128c89baecd5b4ca55e591ea1657604": {
+      "name": "MS_Completed_HeavyExtraction",
+      "asset_name": "MS_Completed_HeavyExtraction",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "baaceec8b58dfd48846bd67c16d56b90": {
+      "name": "MS_Completed_IceCaves",
+      "asset_name": "MS_Completed_IceCaves",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "f782a6a2aeffae418731fe13541fd8cf": {
+      "name": "MS_Completed_Lush",
+      "asset_name": "MS_Completed_Lush",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "86fd5f6246223f4e8abe7bb6554d049e": {
+      "name": "MS_Completed_Magma",
+      "asset_name": "MS_Completed_Magma",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "a8b3d4e6f87eb549bbdfd70959dc18d4": {
+      "name": "MS_Completed_MiningExpedition",
+      "asset_name": "MS_Completed_MiningExpedition",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "4d9fe46706252a42ab5ced528f37b437": {
+      "name": "MS_Completed_OssuaryDepths",
+      "asset_name": "MS_Completed_OssuaryDepths",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "fd41463ad3932f4ba378132078b3890f": {
+      "name": "MS_Completed_PointExtraction",
+      "asset_name": "MS_Completed_PointExtraction",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "b787a9dfd242934786b39534939d3e17": {
+      "name": "MS_Completed_Radioactive",
+      "asset_name": "MS_Completed_Radioactive",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "b8a82208f7d6ca45a97ca5c44023e640": {
+      "name": "MS_Completed_RefineryMissions",
+      "asset_name": "MS_Completed_RefineryMissions",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "2092b3fd446d2f44842d5091d15d50b4": {
+      "name": "MS_Completed_RepairMiniMules",
+      "asset_name": "MS_Completed_RepairMiniMules",
+      "category": "MSC_DeepDives",
+      "type": "Integer"
+    },
+    "cadd2557633002469cce14ba34dcda05": {
+      "name": "MS_Completed_Salt",
+      "asset_name": "MS_Completed_Salt",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "c282e05dcd38e5468ac2ba9a8c35de5e": {
+      "name": "MS_Completed_SalvageMissions",
+      "asset_name": "MS_Completed_SalvageMissions",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "66f2d5273af4cb41bf9bf65907671d9a": {
+      "name": "MS_Completed_Sandblasted",
+      "asset_name": "MS_Completed_Sandblasted",
+      "category": "MSC_Bioms",
+      "type": "Integer"
+    },
+    "e3e825fc837f354889075523949c2e1a": {
+      "name": "Missions completed as Scout",
+      "asset_name": "MS_Completed_Scout",
+      "category": "MSC_Characters",
+      "type": "Integer"
+    },
+    "3c419ab137e6724b9d1756eb82ec84c9": {
+      "name": "MS_Completed_SeasonChallenge",
+      "asset_name": "MS_Completed_SeasonChallenge",
+      "category": "MSC_Seasons",
+      "type": "Integer"
+    },
+    "ae890e3a5304604da04cc52959de8a77": {
+      "name": "MS_Completed_SeasonEvents",
+      "asset_name": "MS_Completed_SeasonEvents",
+      "category": "MSC_Seasons",
+      "type": "Integer"
+    },
+    "1303e451de761d4796cd0bd5e2a682e0": {
+      "name": "MS_Completed_SecondaryMissions",
+      "asset_name": "MS_Completed_SecondaryMissions",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "75381c780da5e640b49d7f1fffa098ef": {
+      "name": "MS_Completed_TotalCampaignMissions",
+      "asset_name": "MS_Completed_TotalCampaignMissions",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "b6c420076d16cc4aa68fa7950cdec328": {
+      "name": "MS_Completed_TotalCampaigns",
+      "asset_name": "MS_Completed_TotalCampaigns",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "d839bca48ae243468b5da06e7bd0e4c8": {
+      "name": "MS_Completed_TotalMissions",
+      "asset_name": "MS_Completed_TotalMissions",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "53f7fe1c000efb439e4d0e11698887ec": {
+      "name": "MS_Completed_TotalSoloMissions",
+      "asset_name": "MS_Completed_TotalSoloMissions",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "11871ba21556ee41b4564d82cb6e6409": {
+      "name": "MS_Completed_Tutorial",
+      "asset_name": "MS_Completed_Tutorial",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "f59d016eb340534a9b392ac17f734598": {
+      "name": "MS_CoreRifts_Closed",
+      "asset_name": "MS_CoreRifts_Closed",
+      "category": "MSC_Seasons",
+      "type": "Integer"
+    },
+    "7c278cd58280dd44972fa08b283906c7": {
+      "name": "MS_Cosmetic_Mastery",
+      "asset_name": "MS_Cosmetic_Mastery",
+      "category": "MSC_Purchased",
+      "type": "Integer"
+    },
+    "0d3fa6b2aa694f45808ac6cc42fe1616": {
+      "name": "MS_Crafting_Cosmetics",
+      "asset_name": "MS_Crafting_Cosmetics",
+      "category": "MSC_Forging",
+      "type": "Integer"
+    },
+    "ca6cc44c8148554dbd469f2224870718": {
+      "name": "MS_Crafting_Mastery",
+      "asset_name": "MS_Crafting_Mastery",
+      "category": "MSC_Forging",
+      "type": "Integer"
+    },
+    "3a0ceefa38e9dc49bc0bf2b80d387fae": {
+      "name": "MS_Crafting_Overclocks",
+      "asset_name": "MS_Crafting_Overclocks",
+      "category": "MSC_Forging",
+      "type": "Integer"
+    },
+    "ef9bfe8e66c7064fbcbf260ff058fd39": {
+      "name": "MS_Crafting_WeaponSkins",
+      "asset_name": "MS_Crafting_WeaponSkins",
+      "category": "MSC_Forging",
+      "type": "Integer"
+    },
+    "b770e8ab5f0ffa48aa764d839c092f5d": {
+      "name": "MS_DataCells_Collected",
+      "asset_name": "MS_DataCells_Collected",
+      "category": "MSC_Seasons",
+      "type": "Integer"
+    },
+    "fcc4bdafb0400b4caba6b30c506e5b19": {
+      "name": "MS_Death_TotalDowns",
+      "asset_name": "MS_Death_TotalDowns",
+      "category": "MSC_Death",
+      "type": "Integer"
+    },
+    "8fa187f7d6c09a4bb2128d39ca723e36": {
+      "name": "MS_Death_TotalDownsDrunk",
+      "asset_name": "MS_Death_TotalDownsDrunk",
+      "category": "MSC_Death",
+      "type": "Integer"
+    },
+    "f803c36f7517bf479202063bbe5b68c6": {
+      "name": "MS_DistanceTravelled",
+      "asset_name": "MS_DistanceTravelled",
+      "category": "MSC_Distance",
+      "type": "Distance"
+    },
+    "da7ff06c61da374da5f526e10a9b0629": {
+      "name": "MS_Drinkable_SpecialBeersUnlocked",
+      "asset_name": "MS_Drinkable_SpecialBeersUnlocked",
+      "category": "MSC_Drinkables",
+      "type": "Integer"
+    },
+    "111bdae028b21c409579d6f7ff5be606": {
+      "name": "MS_Drinkable_TotalConsumed",
+      "asset_name": "MS_Drinkable_TotalConsumed",
+      "category": "MSC_Drinkables",
+      "type": "Integer"
+    },
+    "2e4784bfaff4614cb340dea1b8611743": {
+      "name": "MS_Drinkable_TotalRoundsOrdered",
+      "asset_name": "MS_Drinkable_TotalRoundsOrdered",
+      "category": "MSC_Drinkables",
+      "type": "Integer"
+    },
+    "34b679e5fc836d458c5e839d9075c06e": {
+      "name": "MS_EquipmentUpgrades_Purchased",
+      "asset_name": "MS_EquipmentUpgrades_Purchased",
+      "category": "MSC_Purchased",
+      "type": "Integer"
+    },
+    "2292e1d574ae7740b7bc704b3971842c": {
+      "name": "MS_IWTest_ButtonPressed",
+      "asset_name": "MS_IWTest_ButtonPressed",
+      "category": "MSC_Seasons",
+      "type": "Integer"
+    },
+    "ab69dd4c2fb28842a666841e9b43cb8a": {
+      "name": "MS_JettyBoot_CreditsSpent",
+      "asset_name": "MS_JettyBoot_CreditsSpent",
+      "category": "MSC_Purchased",
+      "type": "Integer"
+    },
+    "e77ad95bdfa17d438e5bfe1ca6bf690a": {
+      "name": "MS_Killed_TotalEnemies",
+      "asset_name": "MS_Killed_TotalEnemies",
+      "category": "MSC_Kills",
+      "type": "Integer"
+    },
+    "f86b76d826b95b45a16467936927db1b": {
+      "name": "MS_LevelUp_Character",
+      "asset_name": "MS_LevelUp_Character",
+      "category": "MSC_Characters",
+      "type": ""
+    },
+    "d0fc16584756b541b8708ffc3c2ac6a2": {
+      "name": "MS_Mined_TotalMinerals",
+      "asset_name": "MS_Mined_TotalMinerals",
+      "category": "MSC_Mined",
+      "type": "Integer"
+    },
+    "be48185532f49d45be45a4bf5efaa4cc": {
+      "name": "MS_PlagueHeartsCollected_S03",
+      "asset_name": "MS_PlagueHeartsCollected_S03",
+      "category": "MSC_Seasons",
+      "type": "Integer"
+    },
+    "5c98d1fe116d004da8d159bd322386ff": {
+      "name": "MS_PlagueHeartsCollected_S04",
+      "asset_name": "MS_PlagueHeartsCollected_S04",
+      "category": "MSC_Seasons",
+      "type": "Integer"
+    },
+    "aefccea9b9762b418b7402de9b27117a": {
+      "name": "MS_Plague_Cleaned",
+      "asset_name": "MS_Plague_Cleaned",
+      "category": "MSC_Seasons",
+      "type": "Integer"
+    },
+    "bdcc3f1f8121004f95b22c23d1881082": {
+      "name": "MS_Secondary_ApocaBloom",
+      "asset_name": "MS_Secondary_ApocaBloom",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "f06c98a0b831064f814768b1777bcdff": {
+      "name": "MS_Secondary_BooloCaps",
+      "asset_name": "MS_Secondary_BooloCaps",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "a9610daa691fe84aadaee9fd5c750c76": {
+      "name": "MS_Secondary_DestroyBhaBarnacle",
+      "asset_name": "MS_Secondary_DestroyBhaBarnacle",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "fd8044909d293c4abb6a30c4c8d16c65": {
+      "name": "MS_Secondary_DestroyEggs",
+      "asset_name": "MS_Secondary_DestroyEggs",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "e66bb4ba96efe1458bda728f1005013e": {
+      "name": "MS_Secondary_Dystrum",
+      "asset_name": "MS_Secondary_Dystrum",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "c375787852e61f4bae94b13995d73bc4": {
+      "name": "MS_Secondary_FindEbonut",
+      "asset_name": "MS_Secondary_FindEbonut",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "d6845a5cfad9e6439cf98a66d80c5d73": {
+      "name": "MS_Secondary_FindGunkSeed",
+      "asset_name": "MS_Secondary_FindGunkSeed",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "56ae355d474ec94b9c7eb4eb39d786b0": {
+      "name": "MS_Secondary_Fossils",
+      "asset_name": "MS_Secondary_Fossils",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "fc637f52ca5f664998ccc36dfc83a388": {
+      "name": "MS_Secondary_Holomite",
+      "asset_name": "MS_Secondary_Holomite",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "6c4d21996eb2644690dcd3618b5b9c27": {
+      "name": "MS_Secondary_KillFesterFleas",
+      "asset_name": "MS_Secondary_KillFesterFleas",
+      "category": "MSC_Missions",
+      "type": "Integer"
+    },
+    "57f21f5d735f1944b08a63395ccd6da7": {
+      "name": "MS_TimePlayed",
+      "asset_name": "MS_TimePlayed",
+      "category": "MSC_Time",
+      "type": "Time"
+    },
+    "dc257ebd58cfd045abcc98c930eaed5e": {
+      "name": "MS_VanityItems_Purchased",
+      "asset_name": "MS_VanityItems_Purchased",
+      "category": "MSC_Purchased",
+      "type": "Integer"
+    },
+    "c863ff5dd6d4b94d8c171f20e164b5c3": {
+      "name": "MS_Warnings_BulletHell",
+      "asset_name": "MS_Warnings_BulletHell",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "b2f6d678359a8a4a9f5b54f90b9d1d39": {
+      "name": "MS_Warnings_CaveLeechClusters",
+      "asset_name": "MS_Warnings_CaveLeechClusters",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "4b5cae9d52e2b349b2f259b70ce8be1c": {
+      "name": "MS_Warnings_CoreCorruption",
+      "asset_name": "MS_Warnings_CoreCorruption",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "1e703d2914ea704a91674e765e705119": {
+      "name": "MS_Warnings_DoubleWarning",
+      "asset_name": "MS_Warnings_DoubleWarning",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "c44aa131f5b988438a19ebadf8d3a354": {
+      "name": "MS_Warnings_ExploderInfestations",
+      "asset_name": "MS_Warnings_ExploderInfestations",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "0b5091cc41a0b548b7f26d35fc87a4a8": {
+      "name": "MS_Warnings_Ghost",
+      "asset_name": "MS_Warnings_Ghost",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "ac92c0f444d4954b99ee8e3d0e0d8c3e": {
+      "name": "MS_Warnings_HeroEnemies",
+      "asset_name": "MS_Warnings_HeroEnemies",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "d1dab4224a7bca4393275e1efdb285af": {
+      "name": "MS_Warnings_InfestedEnemies",
+      "asset_name": "MS_Warnings_InfestedEnemies",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "ddf8ebb0b8558047a286d72057aadf33": {
+      "name": "MS_Warnings_LethalEnemies",
+      "asset_name": "MS_Warnings_LethalEnemies",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "ed18ff9ba468d842905bdc5d6a3af753": {
+      "name": "MS_Warnings_MacteraPlagues",
+      "asset_name": "MS_Warnings_MacteraPlagues",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "85beb1807e055947aa4b5e43a2372374": {
+      "name": "MS_Warnings_NoOxygen",
+      "asset_name": "MS_Warnings_NoOxygen",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "1705bd8e32402e4e8a4dcda5e21a4974": {
+      "name": "MS_Warnings_NoShields",
+      "asset_name": "MS_Warnings_NoShields",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "e60541cdf7be654ca7c78df075bcd925": {
+      "name": "MS_Warnings_OssiranColony",
+      "asset_name": "MS_Warnings_OssiranColony",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "1fe5c65555717c4a8ecf25a7dea1a71e": {
+      "name": "MS_Warnings_Plague",
+      "asset_name": "MS_Warnings_Plague",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "234d524a08825842a100bcdd77f20476": {
+      "name": "MS_Warnings_Regeneration",
+      "asset_name": "MS_Warnings_Regeneration",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "3e11ee7791d88346bd0e1324827c04ef": {
+      "name": "MS_Warnings_RivalIncursion",
+      "asset_name": "MS_Warnings_RivalIncursion",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "1fbb5aefa41b9d469cfd00a899401bda": {
+      "name": "MS_Warnings_RockInfestation",
+      "asset_name": "MS_Warnings_RockInfestation",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "a72ef40e61b7104cb2199b81dceb307e": {
+      "name": "MS_Warnings_ScrabNestingGrounds",
+      "asset_name": "MS_Warnings_ScrabNestingGrounds",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    },
+    "2b58f4d1b7fecf4db68169e50bc63cc3": {
+      "name": "MS_Warnings_Swarmageddon",
+      "asset_name": "MS_Warnings_Swarmageddon",
+      "category": "MSC_Warnings",
+      "type": "Integer"
+    }
+  }
+}

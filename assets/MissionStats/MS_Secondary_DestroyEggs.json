@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_DestroyEggs",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_DestroyEggs",
+    "Properties": {
+      "SaveGameID": "904480FD-4A3C299D-C4306ABB-656CD1C8",
+      "Title": {
+        "Namespace": "",
+        "Key": "4BCB7C1A4A97A4165EA76AB8213DB54D",
+        "SourceString": "Destroy Glyphid Egg Secondary Missions Completed",
+        "LocalizedString": "Destroy Glyphid Egg Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

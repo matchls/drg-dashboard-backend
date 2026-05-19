@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Driller",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Driller",
+    "Properties": {
+      "SaveGameID": "0F7A89C4-419C0590-78B7E1A5-AF59F8FC",
+      "Title": {
+        "CultureInvariantString": "Missions completed as Driller"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Characters'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Characters.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

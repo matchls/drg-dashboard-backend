@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_Fossils",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_Fossils",
+    "Properties": {
+      "SaveGameID": "5D35AE56-4BC94E47-EBB47E9C-B086D739",
+      "Title": {
+        "Namespace": "",
+        "Key": "19B56DA949148BAD595622801A9E25BE",
+        "SourceString": "Fossil Secondary Missions Completed",
+        "LocalizedString": "Fossil Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

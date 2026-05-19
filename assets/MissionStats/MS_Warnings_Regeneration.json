@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_Regeneration",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_Regeneration",
+    "Properties": {
+      "SaveGameID": "4A524D23-42588208-DDBC00A1-7604F277",
+      "Title": {
+        "Namespace": "",
+        "Key": "446621D9442B342CED0D85BB8DE711BE",
+        "SourceString": "'Regenerative Bugs' Warnings Completed",
+        "LocalizedString": "'Regenerative Bugs' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

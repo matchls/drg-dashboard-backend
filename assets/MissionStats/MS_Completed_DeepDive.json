@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_DeepDive",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_DeepDive",
+    "Properties": {
+      "SaveGameID": "FC337852-479E3C05-C7710CA2-63922739",
+      "Title": {
+        "Namespace": "",
+        "Key": "0065051F46801A9794CDAA812ACF0DAD",
+        "SourceString": "Deep Dives Completed",
+        "LocalizedString": "Deep Dives Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_DeepDives'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_DeepDives.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

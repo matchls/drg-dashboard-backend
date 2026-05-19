@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_TotalMissions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_TotalMissions",
+    "Properties": {
+      "SaveGameID": "A4BC39D8-4643E28A-6EA05D8B-C8E4D07B",
+      "Title": {
+        "Namespace": "",
+        "Key": "807A896D4764FA22029B40B69BF5188D",
+        "SourceString": "Missions Completed",
+        "LocalizedString": "Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "StatAchievement": {
+        "ObjectName": "FSDAchievement'ACH_Miner_Legendary'",
+        "ObjectPath": "FSD/Content/GameElements/Achievements/ACH_Miner_Legendary.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

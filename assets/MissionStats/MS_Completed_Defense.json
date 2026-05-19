@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Defense",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Defense",
+    "Properties": {
+      "SaveGameID": "4D03519A-4337107D-DF944D9A-A7B21A58",
+      "Title": {
+        "Namespace": "",
+        "Key": "D93396D042711A0E30ED05BE3D2AAB8E",
+        "SourceString": "Defend Black Box Objectives Completed",
+        "LocalizedString": "Defend Black Box Objectives Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_DeepDives'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_DeepDives.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

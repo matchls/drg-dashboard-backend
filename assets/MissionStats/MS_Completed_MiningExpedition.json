@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_MiningExpedition",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_MiningExpedition",
+    "Properties": {
+      "SaveGameID": "E6D4B3A8-49B57EF8-09D7DFBB-D418DC59",
+      "Title": {
+        "Namespace": "",
+        "Key": "FBE9BF614BF41D00F681DD93CFA4E25A",
+        "SourceString": "Mining Expeditions Completed",
+        "LocalizedString": "Mining Expeditions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

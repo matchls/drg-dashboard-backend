@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_PointExtraction",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_PointExtraction",
+    "Properties": {
+      "SaveGameID": "3A4641FD-4B2F93D3-201378A3-0F89B378",
+      "Title": {
+        "Namespace": "",
+        "Key": "EFB12A51427313B62214BF88805E484E",
+        "SourceString": "Point Extractions Completed",
+        "LocalizedString": "Point Extractions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_RefineryMissions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_RefineryMissions",
+    "Properties": {
+      "SaveGameID": "0822A8B8-45CAD6F7-C4A57CA9-40E62340",
+      "Title": {
+        "Namespace": "",
+        "Key": "E48B2257405FCC8733DA17B9FF90BF8F",
+        "SourceString": "On-Site Refining Completed",
+        "LocalizedString": "On-Site Refining Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

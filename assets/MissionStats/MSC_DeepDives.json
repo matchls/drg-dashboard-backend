@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_DeepDives",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_DeepDives",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "30E03DBE416DAF233849E9A100634FFA",
+        "SourceString": "Deep Dives",
+        "LocalizedString": "Deep Dives"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_Milestone_Category_DeepDives'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_Misc/Icon_Milestone_Category_DeepDives.0"
+      }
+    }
+  }
+]

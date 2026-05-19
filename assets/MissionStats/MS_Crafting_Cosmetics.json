@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Crafting_Cosmetics",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Crafting_Cosmetics",
+    "Properties": {
+      "SaveGameID": "B2A63F0D-454F69AA-CCC68A80-1616FE42",
+      "Title": {
+        "Namespace": "",
+        "Key": "AB74ED674C1425C8808F47ABC975576F",
+        "SourceString": "Cosmetics Forged",
+        "LocalizedString": "Cosmetics Forged"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Forging'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Forging.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

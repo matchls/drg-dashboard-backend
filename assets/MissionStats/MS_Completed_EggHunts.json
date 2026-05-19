@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_EggHunts",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_EggHunts",
+    "Properties": {
+      "SaveGameID": "8B1FF439-44D5EE87-30AD57B7-564ADB84",
+      "Title": {
+        "Namespace": "",
+        "Key": "315704EB489E32AA403BE091D69570F7",
+        "SourceString": "Egg Hunts Completed",
+        "LocalizedString": "Egg Hunts Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

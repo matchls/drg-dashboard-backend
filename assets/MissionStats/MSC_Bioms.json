@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Bioms",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "387FB2484DFA5766DA90E6A725E0F0BB",
+        "SourceString": "Missions",
+        "LocalizedString": "Missions"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_Milestones_Biomes'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_MissionStats/Icon_Milestones_Biomes.0"
+      }
+    }
+  }
+]

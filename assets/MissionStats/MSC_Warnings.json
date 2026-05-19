@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Warnings",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "45BC46004B66AA4029A6CA9825BE7209",
+        "SourceString": "Warnings",
+        "LocalizedString": "Warnings"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'MisMap_Warning_BG_Large'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_MissionMap/Mismap_Warnings/MisMap_Warning_BG_Large.0"
+      }
+    }
+  }
+]

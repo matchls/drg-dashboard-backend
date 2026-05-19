@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_DestroyBhaBarnacle",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_DestroyBhaBarnacle",
+    "Properties": {
+      "SaveGameID": "AA0D61A9-4AE81F69-FDE9AEAD-760C755C",
+      "Title": {
+        "Namespace": "",
+        "Key": "C6CE5AED46674CBB3AD9E6B43B299161",
+        "SourceString": "Bha Barnacle Secondary Missions Completed",
+        "LocalizedString": "Bha Barnacle Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

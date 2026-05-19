@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Assignments",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Assignments",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "8EC065F5490529525AAE019EC3D47173",
+        "SourceString": "Assignments",
+        "LocalizedString": "Assignments"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icons_Campaign'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_Campaign_Jobs/Icons_Campaign.0"
+      }
+    }
+  }
+]

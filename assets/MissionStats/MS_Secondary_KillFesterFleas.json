@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_KillFesterFleas",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_KillFesterFleas",
+    "Properties": {
+      "SaveGameID": "99214D6C-4664B26E-61D3DC90-279C5B8B",
+      "Title": {
+        "Namespace": "",
+        "Key": "E82164D449B0CECC8EFA55AEEC64AF22",
+        "SourceString": "Fester Fleas Secondary Missions Completed",
+        "LocalizedString": "Fester Fleas Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Gunner",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Gunner",
+    "Properties": {
+      "SaveGameID": "55902422-4EB75DA3-321FFEB1-937504A5",
+      "Title": {
+        "CultureInvariantString": "Missions completed as Gunner"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Characters'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Characters.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

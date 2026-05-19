@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Scout",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Scout",
+    "Properties": {
+      "SaveGameID": "FC25E8E3-48357F83-23550789-1A2E9C94",
+      "Title": {
+        "CultureInvariantString": "Missions completed as Scout"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Characters'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Characters.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

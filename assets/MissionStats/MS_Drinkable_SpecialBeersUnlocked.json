@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Drinkable_SpecialBeersUnlocked",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Drinkable_SpecialBeersUnlocked",
+    "Properties": {
+      "SaveGameID": "6CF07FDA-4D37DA61-E126F5A5-29069B0A",
+      "Title": {
+        "Namespace": "",
+        "Key": "3BD1C77543C2158DF8420E9482838DCC",
+        "SourceString": "Total Amount Of Special Beers Unlocked",
+        "LocalizedString": "Total Amount Of Special Beers Unlocked"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Drinkables'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Drinkables.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "ShowHighestValue": false
+    }
+  }
+]

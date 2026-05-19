@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_CoreRifts_Closed",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_CoreRifts_Closed",
+    "Properties": {
+      "SaveGameID": "6E019DF5-4A5340B3-C12A399B-9845737F",
+      "Title": {
+        "Namespace": "",
+        "Key": "FE01F8474DE36B69EE244D9DE0F3A912",
+        "SourceString": "Core Rifts Closed",
+        "LocalizedString": "Core Rifts Closed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Seasons'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Seasons.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "ShowHighestValue": false
+    }
+  }
+]

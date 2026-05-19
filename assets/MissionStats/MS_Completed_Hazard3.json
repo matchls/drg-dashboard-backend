@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Hazard3",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Hazard3",
+    "Properties": {
+      "SaveGameID": "474BABB0-4D59A501-197A4BA7-CB049641",
+      "Title": {
+        "Namespace": "",
+        "Key": "611133B24CBE09AA7BAFA3A1C5BBF3D9",
+        "SourceString": "Missions Completed on Hazard 3 or Higher",
+        "LocalizedString": "Missions Completed on Hazard 3 or Higher"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

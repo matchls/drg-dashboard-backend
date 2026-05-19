@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_RepairMiniMules",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_RepairMiniMules",
+    "Properties": {
+      "SaveGameID": "FDB39220-442F6D44-91502D84-B4505DD1",
+      "Title": {
+        "Namespace": "",
+        "Key": "BF860F3548FE248ACAD13EA86EFDE745",
+        "SourceString": "Repair Mini M.U.L.E. Objectives Completed",
+        "LocalizedString": "Repair Mini M.U.L.E. Objectives Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_DeepDives'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_DeepDives.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

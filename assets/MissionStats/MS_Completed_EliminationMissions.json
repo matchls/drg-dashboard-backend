@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_EliminationMissions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_EliminationMissions",
+    "Properties": {
+      "SaveGameID": "15AA10FF-498FBBB8-4C633B98-C72CFE1D",
+      "Title": {
+        "Namespace": "",
+        "Key": "C09ACDFF472D3CF162560C9B026A66DA",
+        "SourceString": "Eliminations Completed",
+        "LocalizedString": "Eliminations Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

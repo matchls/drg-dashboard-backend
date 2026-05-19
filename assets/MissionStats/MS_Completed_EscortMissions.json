@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_EscortMissions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_EscortMissions",
+    "Properties": {
+      "SaveGameID": "9E6086D7-47F7DC70-E0BF2BAD-18867093",
+      "Title": {
+        "Namespace": "",
+        "Key": "4A90914444F76E837C7F728F9787AA11",
+        "SourceString": "Escort Duties Completed",
+        "LocalizedString": "Escort Duties Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

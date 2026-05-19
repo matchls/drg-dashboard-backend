@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Drinkable_TotalRoundsOrdered",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Drinkable_TotalRoundsOrdered",
+    "Properties": {
+      "SaveGameID": "BF84472E-4C61F4AF-A1DE40B3-431761B8",
+      "Title": {
+        "Namespace": "",
+        "Key": "5F5B194E4D3131ED17D43490EDF002D5",
+        "SourceString": "Total Beverage Rounds Ordered",
+        "LocalizedString": "Total Beverage Rounds Ordered"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Drinkables'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Drinkables.0"
+      },
+      "StatAchievement": {
+        "ObjectName": "FSDAchievement'ACH_BigSpender'",
+        "ObjectPath": "FSD/Content/GameElements/Achievements/ACH_BigSpender.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

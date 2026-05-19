@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Magma",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Magma",
+    "Properties": {
+      "SaveGameID": "625FFD86-4E3F2246-B67BBE8A-9E044D55",
+      "Title": {
+        "Namespace": "",
+        "Key": "C7734D5B442B07A838FF71BE85CA28AA",
+        "SourceString": "Magma Core Missions Completed",
+        "LocalizedString": "Magma Core Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Bioms'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

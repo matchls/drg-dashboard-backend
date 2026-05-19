@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_RivalIncursion",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_RivalIncursion",
+    "Properties": {
+      "SaveGameID": "77EE113E-4683D891-24130EBD-EF047C82",
+      "Title": {
+        "Namespace": "",
+        "Key": "999A43A14F4E242F10AF7FACEF35CEC9",
+        "SourceString": "'Rival Presence' Warnings Completed",
+        "LocalizedString": "'Rival Presence' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

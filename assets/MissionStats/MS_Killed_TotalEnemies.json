@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Killed_TotalEnemies",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Killed_TotalEnemies",
+    "Properties": {
+      "SaveGameID": "5BD97AE7-437DA1DF-1CFE5B8E-0A69BFA6",
+      "Title": {
+        "Namespace": "",
+        "Key": "305318414478607ABE93A989F8D75E0A",
+        "SourceString": "Enemies Killed",
+        "LocalizedString": "Enemies Killed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Kills'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Kills.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

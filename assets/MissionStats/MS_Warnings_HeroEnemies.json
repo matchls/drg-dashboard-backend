@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_HeroEnemies",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_HeroEnemies",
+    "Properties": {
+      "SaveGameID": "F4C092AC-4B95D444-3D8EEE99-3E8C0D0E",
+      "Title": {
+        "Namespace": "",
+        "Key": "37BE552D41E2FDF2C29AA082145F3831",
+        "SourceString": "'Elite Threat' Warnings Completed",
+        "LocalizedString": "'Elite Threat' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

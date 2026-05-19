@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Forging",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Forging",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "DEE9D1174ED9C6FD083F3BBA043F16F1",
+        "SourceString": "Forging",
+        "LocalizedString": "Forging"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_Milestone_Category_Forge'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_Misc/Icon_Milestone_Category_Forge.0"
+      }
+    }
+  }
+]

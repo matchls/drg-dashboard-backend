@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Seasons",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Seasons",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "54CE1C064A77BC993E3C0981523E4648",
+        "SourceString": "Performance Pass",
+        "LocalizedString": "Performance Pass"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_Season_DataFacility_Challenge'",
+        "ObjectPath": "FSD/Content/UI/Menu_Seasons/Assets/Icon_Season_DataFacility_Challenge.0"
+      }
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_JettyBoot_CreditsSpent",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_JettyBoot_CreditsSpent",
+    "Properties": {
+      "SaveGameID": "4CDD69AB-4288B22F-1E8466A6-8ACB439B",
+      "Title": {
+        "Namespace": "",
+        "Key": "B0A9B35F4757ADB6C44D8FB6AFCC87EA",
+        "SourceString": "Credits spent on Jetty Boot",
+        "LocalizedString": "Credits spent on Jetty Boot"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Purchased'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Purchased.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

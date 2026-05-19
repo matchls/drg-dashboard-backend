@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Engineer",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Engineer",
+    "Properties": {
+      "SaveGameID": "9CBAE1D6-4AFA235D-776664B3-71DA138F",
+      "Title": {
+        "CultureInvariantString": "Missions completed as Engineer"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Characters'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Characters.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

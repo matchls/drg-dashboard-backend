@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_BooloCaps",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_BooloCaps",
+    "Properties": {
+      "SaveGameID": "A0986CF0-4F0631B8-B1684781-FFCD7B77",
+      "Title": {
+        "Namespace": "",
+        "Key": "76B0916942E7EC36DD4C6EB5962BFAE6",
+        "SourceString": "Boolo Cap Secondary Missions Completed",
+        "LocalizedString": "Boolo Cap Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

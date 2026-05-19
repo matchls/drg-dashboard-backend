@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Crystal",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Crystal",
+    "Properties": {
+      "SaveGameID": "A02CD7C8-4F7D46BD-CBE1BE92-5F97098F",
+      "Title": {
+        "Namespace": "",
+        "Key": "A7B91E80417B52C49FE18DB25B22C213",
+        "SourceString": "Crystalline Caverns Missions Completed",
+        "LocalizedString": "Crystalline Caverns Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Bioms'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

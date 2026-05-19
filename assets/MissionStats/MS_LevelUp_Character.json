@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_LevelUp_Character",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_LevelUp_Character",
+    "Properties": {
+      "SaveGameID": "D8766BF8-455BB926-936764A1-1BDB2769",
+      "Title": {
+        "Namespace": "",
+        "Key": "A193E4C34A1D42009A9A518F2571534F",
+        "SourceString": "Character Classes Levelled Up",
+        "LocalizedString": "Character Classes Levelled Up"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Characters'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Characters.0"
+      },
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

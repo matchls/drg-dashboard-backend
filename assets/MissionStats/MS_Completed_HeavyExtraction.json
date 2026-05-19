@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_HeavyExtraction",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_HeavyExtraction",
+    "Properties": {
+      "SaveGameID": "9BC828A1-4C5BCDAE-1E595EA5-047665A1",
+      "Title": {
+        "Namespace": "",
+        "Key": "3E3E47E9428FF7762268C6A251A26555",
+        "SourceString": "Heavy Extractions Completed",
+        "LocalizedString": "Heavy Extractions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Hazard5",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Hazard5",
+    "Properties": {
+      "SaveGameID": "79CA53CB-4DC69856-77010E8E-88FEA237",
+      "Title": {
+        "Namespace": "",
+        "Key": "25E414BB47848C61AE91B2A99988C662",
+        "SourceString": "Missions Completed on Hazard 5",
+        "LocalizedString": "Missions Completed on Hazard 5"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer",
+      "DoNotShowInMissionStatView": true
+    }
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_TotalCampaigns",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_TotalCampaigns",
+    "Properties": {
+      "SaveGameID": "0720C4B6-4ACC166D-95A78FA6-28C3DE0C",
+      "Title": {
+        "Namespace": "",
+        "Key": "3F5A7D9444C6C21AFEBFFF999FFF1D32",
+        "SourceString": "Assignments Completed",
+        "LocalizedString": "Assignments Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "StatAchievement": {
+        "ObjectName": "FSDAchievement'ACH_GreenBeard'",
+        "ObjectPath": "FSD/Content/GameElements/Achievements/ACH_GreenBeard.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

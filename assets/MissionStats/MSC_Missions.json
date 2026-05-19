@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Missions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "96E6DEFA4D093CABD8D3B8A4201CFB34",
+        "SourceString": "Missions",
+        "LocalizedString": "Missions"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_Mission'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_MissionStats/Icon_Mission.0"
+      }
+    }
+  }
+]

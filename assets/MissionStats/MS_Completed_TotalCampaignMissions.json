@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_TotalCampaignMissions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_TotalCampaignMissions",
+    "Properties": {
+      "SaveGameID": "781C3875-40E6A50D-1F7F9DB4-EF98A0FF",
+      "Title": {
+        "Namespace": "",
+        "Key": "81E256A34AB62AFA9923509197B494D6",
+        "SourceString": "Assignment Missions Completed",
+        "LocalizedString": "Assignment Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Sandblasted",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Sandblasted",
+    "Properties": {
+      "SaveGameID": "27D5F266-41CBF43A-59F69BBF-9A1D6707",
+      "Title": {
+        "Namespace": "",
+        "Key": "FA780DBA4A52D3BAB1E8F5A8C733AF75",
+        "SourceString": "Sandblasted Corridors Missions Completed",
+        "LocalizedString": "Sandblasted Corridors Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Bioms'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

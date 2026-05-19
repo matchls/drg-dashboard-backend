@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_SecondaryMissions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_SecondaryMissions",
+    "Properties": {
+      "SaveGameID": "51E40313-471D76DE-D50BCD96-E082A6E2",
+      "Title": {
+        "Namespace": "",
+        "Key": "C6169E9042AB6F290499B497EFC487B7",
+        "SourceString": "Secondary Missions Completed",
+        "LocalizedString": "Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

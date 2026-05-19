@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_Facility",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_Facility",
+    "Properties": {
+      "SaveGameID": "58A43944-4D147472-1D87A78E-3F41BF78",
+      "Title": {
+        "Namespace": "",
+        "Key": "BEA63A36492E2B8F2E11BA84A5C97867",
+        "SourceString": "Industrial Sabotage Missions Completed",
+        "LocalizedString": "Industrial Sabotage Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

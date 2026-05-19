@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Crafting_Overclocks",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Crafting_Overclocks",
+    "Properties": {
+      "SaveGameID": "FAEE0C3A-49DCE938-B8F20BBC-AE7F380D",
+      "Title": {
+        "Namespace": "",
+        "Key": "9928E1574FBA310B6FC697B153579434",
+        "SourceString": "Weapon Overclocks Forged",
+        "LocalizedString": "Weapon Overclocks Forged"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Forging'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Forging.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

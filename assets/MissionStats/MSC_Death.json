@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Death",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Death",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "4901EFAE48E55B4664E6D1A0BB795D95",
+        "SourceString": "Death",
+        "LocalizedString": "Death"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icon_Dwarf_Down'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_Misc/Icon_Dwarf_Down.0"
+      }
+    }
+  }
+]

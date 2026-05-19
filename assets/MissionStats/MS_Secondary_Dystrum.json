@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Secondary_Dystrum",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Secondary_Dystrum",
+    "Properties": {
+      "SaveGameID": "BAB46BE6-45E1EF96-8F72DA8B-3E010510",
+      "Title": {
+        "Namespace": "",
+        "Key": "D5F706614CEB09B2DC730791C4E58B4F",
+        "SourceString": "Dystrum Secondary Missions Completed",
+        "LocalizedString": "Dystrum Secondary Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

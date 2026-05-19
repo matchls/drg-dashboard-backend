@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Drinkable_TotalConsumed",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Drinkable_TotalConsumed",
+    "Properties": {
+      "SaveGameID": "E0DA1B11-401CB228-F7D67995-06E65BFF",
+      "Title": {
+        "Namespace": "",
+        "Key": "80CB8C464B790B42DD5A71A977557B43",
+        "SourceString": "Total Beverages Consumed",
+        "LocalizedString": "Total Beverages Consumed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Drinkables'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Drinkables.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

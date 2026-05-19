@@ -1,0 +1,20 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Assignments_Unluck_Facility",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Assignments_Unluck_Facility",
+    "Properties": {
+      "SaveGameID": "69EF6DFB-46C47D7D-89E05B94-B05757FF",
+      "Title": {
+        "CultureInvariantString": "Cleared for Industrial Sabotage missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Assignments'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Assignments.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

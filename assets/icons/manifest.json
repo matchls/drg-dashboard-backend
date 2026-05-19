@@ -1,0 +1,899 @@
+{
+  "classes": [
+    {
+      "wiki_name": "Driller icon.png",
+      "clean_name": "driller_icon.png",
+      "path": "assets/icons/classes/driller_icon.png"
+    },
+    {
+      "wiki_name": "Engineer icon.png",
+      "clean_name": "engineer_icon.png",
+      "path": "assets/icons/classes/engineer_icon.png"
+    },
+    {
+      "wiki_name": "Gunner icon.png",
+      "clean_name": "gunner_icon.png",
+      "path": "assets/icons/classes/gunner_icon.png"
+    },
+    {
+      "wiki_name": "Scout icon.png",
+      "clean_name": "scout_icon.png",
+      "path": "assets/icons/classes/scout_icon.png"
+    }
+  ],
+  "perks": [
+    {
+      "wiki_name": "Beast master perk icon.png",
+      "clean_name": "beast_master_perk_icon.png",
+      "path": "assets/icons/perks/beast_master_perk_icon.png"
+    },
+    {
+      "wiki_name": "Berzerker perk icon.png",
+      "clean_name": "berzerker_perk_icon.png",
+      "path": "assets/icons/perks/berzerker_perk_icon.png"
+    },
+    {
+      "wiki_name": "Born ready perk icon.png",
+      "clean_name": "born_ready_perk_icon.png",
+      "path": "assets/icons/perks/born_ready_perk_icon.png"
+    },
+    {
+      "wiki_name": "Bug thing perk icon.png",
+      "clean_name": "bug_thing_perk_icon.png",
+      "path": "assets/icons/perks/bug_thing_perk_icon.png"
+    },
+    {
+      "wiki_name": "Dash perk icon.png",
+      "clean_name": "dash_perk_icon.png",
+      "path": "assets/icons/perks/dash_perk_icon.png"
+    },
+    {
+      "wiki_name": "Deep pockets perk icon.png",
+      "clean_name": "deep_pockets_perk_icon.png",
+      "path": "assets/icons/perks/deep_pockets_perk_icon.png"
+    },
+    {
+      "wiki_name": "Elemental insulation perk icon.png",
+      "clean_name": "elemental_insulation_perk_icon.png",
+      "path": "assets/icons/perks/elemental_insulation_perk_icon.png"
+    },
+    {
+      "wiki_name": "Expert depositor perk icon.png",
+      "clean_name": "expert_depositor_perk_icon.png",
+      "path": "assets/icons/perks/expert_depositor_perk_icon.png"
+    },
+    {
+      "wiki_name": "Field medic perk icon.png",
+      "clean_name": "field_medic_perk_icon.png",
+      "path": "assets/icons/perks/field_medic_perk_icon.png"
+    },
+    {
+      "wiki_name": "Icon ExtractOre.png",
+      "clean_name": "icon_extract_ore.png",
+      "path": "assets/icons/perks/icon_extract_ore.png"
+    },
+    {
+      "wiki_name": "Iron will perk icon.png",
+      "clean_name": "iron_will_perk_icon.png",
+      "path": "assets/icons/perks/iron_will_perk_icon.png"
+    },
+    {
+      "wiki_name": "Jump boots perk icon.png",
+      "clean_name": "jump_boots_perk_icon.png",
+      "path": "assets/icons/perks/jump_boots_perk_icon.png"
+    },
+    {
+      "wiki_name": "Leech sense perk icon.png",
+      "clean_name": "leech_sense_perk_icon.png",
+      "path": "assets/icons/perks/leech_sense_perk_icon.png"
+    },
+    {
+      "wiki_name": "Loveable perk icon.png",
+      "clean_name": "loveable_perk_icon.png",
+      "path": "assets/icons/perks/loveable_perk_icon.png"
+    },
+    {
+      "wiki_name": "More perks perk icon.png",
+      "clean_name": "more_perks_perk_icon.png",
+      "path": "assets/icons/perks/more_perks_perk_icon.png"
+    },
+    {
+      "wiki_name": "Perk active icon.png",
+      "clean_name": "perk_active_icon.png",
+      "path": "assets/icons/perks/perk_active_icon.png"
+    },
+    {
+      "wiki_name": "Perk points icon.png",
+      "clean_name": "perk_points_icon.png",
+      "path": "assets/icons/perks/perk_points_icon.png"
+    },
+    {
+      "wiki_name": "Red sugar rocks perk icon.png",
+      "clean_name": "red_sugar_rocks_perk_icon.png",
+      "path": "assets/icons/perks/red_sugar_rocks_perk_icon.png"
+    },
+    {
+      "wiki_name": "Resupplier perk icon.png",
+      "clean_name": "resupplier_perk_icon.png",
+      "path": "assets/icons/perks/resupplier_perk_icon.png"
+    },
+    {
+      "wiki_name": "Second wind perk icon.png",
+      "clean_name": "second_wind_perk_icon.png",
+      "path": "assets/icons/perks/second_wind_perk_icon.png"
+    },
+    {
+      "wiki_name": "See you in hell perk icon.png",
+      "clean_name": "see_you_in_hell_perk_icon.png",
+      "path": "assets/icons/perks/see_you_in_hell_perk_icon.png"
+    },
+    {
+      "wiki_name": "Shield link perk icon.png",
+      "clean_name": "shield_link_perk_icon.png",
+      "path": "assets/icons/perks/shield_link_perk_icon.png"
+    },
+    {
+      "wiki_name": "Strong arm perk icon.png",
+      "clean_name": "strong_arm_perk_icon.png",
+      "path": "assets/icons/perks/strong_arm_perk_icon.png"
+    },
+    {
+      "wiki_name": "Strong back perk icon.png",
+      "clean_name": "strong_back_perk_icon.png",
+      "path": "assets/icons/perks/strong_back_perk_icon.png"
+    },
+    {
+      "wiki_name": "Temperature insulation perk icon.png",
+      "clean_name": "temperature_insulation_perk_icon.png",
+      "path": "assets/icons/perks/temperature_insulation_perk_icon.png"
+    },
+    {
+      "wiki_name": "Thick soles perk icon.png",
+      "clean_name": "thick_soles_perk_icon.png",
+      "path": "assets/icons/perks/thick_soles_perk_icon.png"
+    },
+    {
+      "wiki_name": "Thorns perk icon.png",
+      "clean_name": "thorns_perk_icon.png",
+      "path": "assets/icons/perks/thorns_perk_icon.png"
+    },
+    {
+      "wiki_name": "Unstoppable perk icon.png",
+      "clean_name": "unstoppable_perk_icon.png",
+      "path": "assets/icons/perks/unstoppable_perk_icon.png"
+    },
+    {
+      "wiki_name": "Vampire perk icon.png",
+      "clean_name": "vampire_perk_icon.png",
+      "path": "assets/icons/perks/vampire_perk_icon.png"
+    },
+    {
+      "wiki_name": "Weekend athlete perk icon.png",
+      "clean_name": "weekend_athlete_perk_icon.png",
+      "path": "assets/icons/perks/weekend_athlete_perk_icon.png"
+    },
+    {
+      "wiki_name": "Zip zoom perk icon.png",
+      "clean_name": "zip_zoom_perk_icon.png",
+      "path": "assets/icons/perks/zip_zoom_perk_icon.png"
+    }
+  ],
+  "weapons": [
+    {
+      "wiki_name": "Armor.png",
+      "clean_name": "armor.png",
+      "path": "assets/icons/weapons/armor.png"
+    },
+    {
+      "wiki_name": "Assault-rifle.png",
+      "clean_name": "assault_rifle.png",
+      "path": "assets/icons/weapons/assault_rifle.png"
+    },
+    {
+      "wiki_name": "Autocannon.png",
+      "clean_name": "autocannon.png",
+      "path": "assets/icons/weapons/autocannon.png"
+    },
+    {
+      "wiki_name": "Breach cutter.png",
+      "clean_name": "breach_cutter.png",
+      "path": "assets/icons/weapons/breach_cutter.png"
+    },
+    {
+      "wiki_name": "Burst pistol.png",
+      "clean_name": "burst_pistol.png",
+      "path": "assets/icons/weapons/burst_pistol.png"
+    },
+    {
+      "wiki_name": "Coilgun.png",
+      "clean_name": "coilgun.png",
+      "path": "assets/icons/weapons/coilgun.png"
+    },
+    {
+      "wiki_name": "Colette.png",
+      "clean_name": "colette.png",
+      "path": "assets/icons/weapons/colette.png"
+    },
+    {
+      "wiki_name": "Crossbow.png",
+      "clean_name": "crossbow.png",
+      "path": "assets/icons/weapons/crossbow.png"
+    },
+    {
+      "wiki_name": "Cryo cannon.png",
+      "clean_name": "cryo_cannon.png",
+      "path": "assets/icons/weapons/cryo_cannon.png"
+    },
+    {
+      "wiki_name": "Detonation-pack.png",
+      "clean_name": "detonation_pack.png",
+      "path": "assets/icons/weapons/detonation_pack.png"
+    },
+    {
+      "wiki_name": "Drak.png",
+      "clean_name": "drak.png",
+      "path": "assets/icons/weapons/drak.png"
+    },
+    {
+      "wiki_name": "Drill.png",
+      "clean_name": "drill.png",
+      "path": "assets/icons/weapons/drill.png"
+    },
+    {
+      "wiki_name": "Dual machine pistols.png",
+      "clean_name": "dual_machine_pistols.png",
+      "path": "assets/icons/weapons/dual_machine_pistols.png"
+    },
+    {
+      "wiki_name": "Flamethrower.png",
+      "clean_name": "flamethrower.png",
+      "path": "assets/icons/weapons/flamethrower.png"
+    },
+    {
+      "wiki_name": "Flare-gun.png",
+      "clean_name": "flare_gun.png",
+      "path": "assets/icons/weapons/flare_gun.png"
+    },
+    {
+      "wiki_name": "Flare.png",
+      "clean_name": "flare.png",
+      "path": "assets/icons/weapons/flare.png"
+    },
+    {
+      "wiki_name": "Gatling-gun.png",
+      "clean_name": "gatling_gun.png",
+      "path": "assets/icons/weapons/gatling_gun.png"
+    },
+    {
+      "wiki_name": "Grappling-gun.png",
+      "clean_name": "grappling_gun.png",
+      "path": "assets/icons/weapons/grappling_gun.png"
+    },
+    {
+      "wiki_name": "Grenade-launcher.png",
+      "clean_name": "grenade_launcher.png",
+      "path": "assets/icons/weapons/grenade_launcher.png"
+    },
+    {
+      "wiki_name": "Grenade.png",
+      "clean_name": "grenade.png",
+      "path": "assets/icons/weapons/grenade.png"
+    },
+    {
+      "wiki_name": "Hurricane.png",
+      "clean_name": "hurricane.png",
+      "path": "assets/icons/weapons/hurricane.png"
+    },
+    {
+      "wiki_name": "Lok-1.png",
+      "clean_name": "lok_1.png",
+      "path": "assets/icons/weapons/lok_1.png"
+    },
+    {
+      "wiki_name": "M1000.png",
+      "clean_name": "m1000.png",
+      "path": "assets/icons/weapons/m1000.png"
+    },
+    {
+      "wiki_name": "Pickaxe.png",
+      "clean_name": "pickaxe.png",
+      "path": "assets/icons/weapons/pickaxe.png"
+    },
+    {
+      "wiki_name": "Pistol.png",
+      "clean_name": "pistol.png",
+      "path": "assets/icons/weapons/pistol.png"
+    },
+    {
+      "wiki_name": "Plasma charger.png",
+      "clean_name": "plasma_charger.png",
+      "path": "assets/icons/weapons/plasma_charger.png"
+    },
+    {
+      "wiki_name": "Platform-gun.png",
+      "clean_name": "platform_gun.png",
+      "path": "assets/icons/weapons/platform_gun.png"
+    },
+    {
+      "wiki_name": "Revolver.png",
+      "clean_name": "revolver.png",
+      "path": "assets/icons/weapons/revolver.png"
+    },
+    {
+      "wiki_name": "Sawedoff-shotgun.png",
+      "clean_name": "sawedoff_shotgun.png",
+      "path": "assets/icons/weapons/sawedoff_shotgun.png"
+    },
+    {
+      "wiki_name": "Sentry.png",
+      "clean_name": "sentry.png",
+      "path": "assets/icons/weapons/sentry.png"
+    },
+    {
+      "wiki_name": "Shard.png",
+      "clean_name": "shard.png",
+      "path": "assets/icons/weapons/shard.png"
+    },
+    {
+      "wiki_name": "Shield generator.png",
+      "clean_name": "shield_generator.png",
+      "path": "assets/icons/weapons/shield_generator.png"
+    },
+    {
+      "wiki_name": "Shotgun.png",
+      "clean_name": "shotgun.png",
+      "path": "assets/icons/weapons/shotgun.png"
+    },
+    {
+      "wiki_name": "Sludge pump.png",
+      "clean_name": "sludge_pump.png",
+      "path": "assets/icons/weapons/sludge_pump.png"
+    },
+    {
+      "wiki_name": "Voltaic smg.png",
+      "clean_name": "voltaic_smg.png",
+      "path": "assets/icons/weapons/voltaic_smg.png"
+    },
+    {
+      "wiki_name": "Zipline-gun.png",
+      "clean_name": "zipline_gun.png",
+      "path": "assets/icons/weapons/zipline_gun.png"
+    }
+  ],
+  "resources": [
+    {
+      "wiki_name": "Alien egg icon.png",
+      "clean_name": "alien_egg_icon.png",
+      "path": "assets/icons/resources/alien_egg_icon.png"
+    },
+    {
+      "wiki_name": "Apoca bloom icon.png",
+      "clean_name": "apoca_bloom_icon.png",
+      "path": "assets/icons/resources/apoca_bloom_icon.png"
+    },
+    {
+      "wiki_name": "Aquarq icon.png",
+      "clean_name": "aquarq_icon.png",
+      "path": "assets/icons/resources/aquarq_icon.png"
+    },
+    {
+      "wiki_name": "Barley bulb icon.png",
+      "clean_name": "barley_bulb_icon.png",
+      "path": "assets/icons/resources/barley_bulb_icon.png"
+    },
+    {
+      "wiki_name": "Bha Barnacle icon.png",
+      "clean_name": "bha_barnacle_icon.png",
+      "path": "assets/icons/resources/bha_barnacle_icon.png"
+    },
+    {
+      "wiki_name": "Bismor icon.png",
+      "clean_name": "bismor_icon.png",
+      "path": "assets/icons/resources/bismor_icon.png"
+    },
+    {
+      "wiki_name": "Bittergem icon.png",
+      "clean_name": "bittergem_icon.png",
+      "path": "assets/icons/resources/bittergem_icon.png"
+    },
+    {
+      "wiki_name": "Boolo cap icon.png",
+      "clean_name": "boolo_cap_icon.png",
+      "path": "assets/icons/resources/boolo_cap_icon.png"
+    },
+    {
+      "wiki_name": "Compressed gold icon.png",
+      "clean_name": "compressed_gold_icon.png",
+      "path": "assets/icons/resources/compressed_gold_icon.png"
+    },
+    {
+      "wiki_name": "Core Stone icon.png",
+      "clean_name": "core_stone_icon.png",
+      "path": "assets/icons/resources/core_stone_icon.png"
+    },
+    {
+      "wiki_name": "Cosmetic core.png",
+      "clean_name": "cosmetic_core.png",
+      "path": "assets/icons/resources/cosmetic_core.png"
+    },
+    {
+      "wiki_name": "Croppa icon.png",
+      "clean_name": "croppa_icon.png",
+      "path": "assets/icons/resources/croppa_icon.png"
+    },
+    {
+      "wiki_name": "Datacell icon.png",
+      "clean_name": "datacell_icon.png",
+      "path": "assets/icons/resources/datacell_icon.png"
+    },
+    {
+      "wiki_name": "DataRack icon.png",
+      "clean_name": "data_rack_icon.png",
+      "path": "assets/icons/resources/data_rack_icon.png"
+    },
+    {
+      "wiki_name": "Dystrum icon.png",
+      "clean_name": "dystrum_icon.png",
+      "path": "assets/icons/resources/dystrum_icon.png"
+    },
+    {
+      "wiki_name": "Ebonut icon.png",
+      "clean_name": "ebonut_icon.png",
+      "path": "assets/icons/resources/ebonut_icon.png"
+    },
+    {
+      "wiki_name": "Empty matrix core.png",
+      "clean_name": "empty_matrix_core.png",
+      "path": "assets/icons/resources/empty_matrix_core.png"
+    },
+    {
+      "wiki_name": "Enor pearl icon.png",
+      "clean_name": "enor_pearl_icon.png",
+      "path": "assets/icons/resources/enor_pearl_icon.png"
+    },
+    {
+      "wiki_name": "Fleas icon.png",
+      "clean_name": "fleas_icon.png",
+      "path": "assets/icons/resources/fleas_icon.png"
+    },
+    {
+      "wiki_name": "Fossil icon.png",
+      "clean_name": "fossil_icon.png",
+      "path": "assets/icons/resources/fossil_icon.png"
+    },
+    {
+      "wiki_name": "FuelCannister icon.png",
+      "clean_name": "fuel_cannister_icon.png",
+      "path": "assets/icons/resources/fuel_cannister_icon.png"
+    },
+    {
+      "wiki_name": "Glyphid Egg icon.png",
+      "clean_name": "glyphid_egg_icon.png",
+      "path": "assets/icons/resources/glyphid_egg_icon.png"
+    },
+    {
+      "wiki_name": "Gold icon.png",
+      "clean_name": "gold_icon.png",
+      "path": "assets/icons/resources/gold_icon.png"
+    },
+    {
+      "wiki_name": "Gunk seed icon.png",
+      "clean_name": "gunk_seed_icon.png",
+      "path": "assets/icons/resources/gunk_seed_icon.png"
+    },
+    {
+      "wiki_name": "Hollomite icon.png",
+      "clean_name": "hollomite_icon.png",
+      "path": "assets/icons/resources/hollomite_icon.png"
+    },
+    {
+      "wiki_name": "HoxIron icon.png",
+      "clean_name": "hox_iron_icon.png",
+      "path": "assets/icons/resources/hox_iron_icon.png"
+    },
+    {
+      "wiki_name": "Icons Resources Outline Barley01.png",
+      "clean_name": "icons_resources_outline_barley01.png",
+      "path": "assets/icons/resources/icons_resources_outline_barley01.png"
+    },
+    {
+      "wiki_name": "Icons Resources Outline Barley02.png",
+      "clean_name": "icons_resources_outline_barley02.png",
+      "path": "assets/icons/resources/icons_resources_outline_barley02.png"
+    },
+    {
+      "wiki_name": "Icons Resources Outline Barley03.png",
+      "clean_name": "icons_resources_outline_barley03.png",
+      "path": "assets/icons/resources/icons_resources_outline_barley03.png"
+    },
+    {
+      "wiki_name": "Icons Resources Outline Barley04.png",
+      "clean_name": "icons_resources_outline_barley04.png",
+      "path": "assets/icons/resources/icons_resources_outline_barley04.png"
+    },
+    {
+      "wiki_name": "Jadiz icon.png",
+      "clean_name": "jadiz_icon.png",
+      "path": "assets/icons/resources/jadiz_icon.png"
+    },
+    {
+      "wiki_name": "Kill Dreadnought Objective icon.png",
+      "clean_name": "kill_dreadnought_objective_icon.png",
+      "path": "assets/icons/resources/kill_dreadnought_objective_icon.png"
+    },
+    {
+      "wiki_name": "Magnite icon.png",
+      "clean_name": "magnite_icon.png",
+      "path": "assets/icons/resources/magnite_icon.png"
+    },
+    {
+      "wiki_name": "Malt star icon.png",
+      "clean_name": "malt_star_icon.png",
+      "path": "assets/icons/resources/malt_star_icon.png"
+    },
+    {
+      "wiki_name": "Matrix Core Cosmetics.png",
+      "clean_name": "matrix_core_cosmetics.png",
+      "path": "assets/icons/resources/matrix_core_cosmetics.png"
+    },
+    {
+      "wiki_name": "Matrix core icon.png",
+      "clean_name": "matrix_core_icon.png",
+      "path": "assets/icons/resources/matrix_core_icon.png"
+    },
+    {
+      "wiki_name": "Mineral container icon.png",
+      "clean_name": "mineral_container_icon.png",
+      "path": "assets/icons/resources/mineral_container_icon.png"
+    },
+    {
+      "wiki_name": "Mini mule leg icon.png",
+      "clean_name": "mini_mule_leg_icon.png",
+      "path": "assets/icons/resources/mini_mule_leg_icon.png"
+    },
+    {
+      "wiki_name": "Morkite icon.png",
+      "clean_name": "morkite_icon.png",
+      "path": "assets/icons/resources/morkite_icon.png"
+    },
+    {
+      "wiki_name": "Morkite Seed icon.png",
+      "clean_name": "morkite_seed_icon.png",
+      "path": "assets/icons/resources/morkite_seed_icon.png"
+    },
+    {
+      "wiki_name": "Nitra icon.png",
+      "clean_name": "nitra_icon.png",
+      "path": "assets/icons/resources/nitra_icon.png"
+    },
+    {
+      "wiki_name": "Oilshale icon.png",
+      "clean_name": "oilshale_icon.png",
+      "path": "assets/icons/resources/oilshale_icon.png"
+    },
+    {
+      "wiki_name": "Ommoran icon.png",
+      "clean_name": "ommoran_icon.png",
+      "path": "assets/icons/resources/ommoran_icon.png"
+    },
+    {
+      "wiki_name": "Overclock core icon.png",
+      "clean_name": "overclock_core_icon.png",
+      "path": "assets/icons/resources/overclock_core_icon.png"
+    },
+    {
+      "wiki_name": "Phazyonite icon.png",
+      "clean_name": "phazyonite_icon.png",
+      "path": "assets/icons/resources/phazyonite_icon.png"
+    },
+    {
+      "wiki_name": "Plagueheart icon.png",
+      "clean_name": "plagueheart_icon.png",
+      "path": "assets/icons/resources/plagueheart_icon.png"
+    },
+    {
+      "wiki_name": "PP icon.png",
+      "clean_name": "pp_icon.png",
+      "path": "assets/icons/resources/pp_icon.png"
+    },
+    {
+      "wiki_name": "PumpingJack icon.png",
+      "clean_name": "pumping_jack_icon.png",
+      "path": "assets/icons/resources/pumping_jack_icon.png"
+    },
+    {
+      "wiki_name": "Quantrite icon.png",
+      "clean_name": "quantrite_icon.png",
+      "path": "assets/icons/resources/quantrite_icon.png"
+    },
+    {
+      "wiki_name": "Red sugar icon.png",
+      "clean_name": "red_sugar_icon.png",
+      "path": "assets/icons/resources/red_sugar_icon.png"
+    },
+    {
+      "wiki_name": "Resinite mass icon.png",
+      "clean_name": "resinite_mass_icon.png",
+      "path": "assets/icons/resources/resinite_mass_icon.png"
+    },
+    {
+      "wiki_name": "Resource Bag.png",
+      "clean_name": "resource_bag.png",
+      "path": "assets/icons/resources/resource_bag.png"
+    },
+    {
+      "wiki_name": "Salvage Mules icon.png",
+      "clean_name": "salvage_mules_icon.png",
+      "path": "assets/icons/resources/salvage_mules_icon.png"
+    },
+    {
+      "wiki_name": "Scrip 01 icon.png",
+      "clean_name": "scrip_01_icon.png",
+      "path": "assets/icons/resources/scrip_01_icon.png"
+    },
+    {
+      "wiki_name": "Scrip 02 icon.png",
+      "clean_name": "scrip_02_icon.png",
+      "path": "assets/icons/resources/scrip_02_icon.png"
+    },
+    {
+      "wiki_name": "Scrip 03 icon.png",
+      "clean_name": "scrip_03_icon.png",
+      "path": "assets/icons/resources/scrip_03_icon.png"
+    },
+    {
+      "wiki_name": "Scrip 04 icon.png",
+      "clean_name": "scrip_04_icon.png",
+      "path": "assets/icons/resources/scrip_04_icon.png"
+    },
+    {
+      "wiki_name": "Scrip 05 icon.png",
+      "clean_name": "scrip_05_icon.png",
+      "path": "assets/icons/resources/scrip_05_icon.png"
+    },
+    {
+      "wiki_name": "Scrip 06 icon.png",
+      "clean_name": "scrip_06_icon.png",
+      "path": "assets/icons/resources/scrip_06_icon.png"
+    },
+    {
+      "wiki_name": "Starch nut icon.png",
+      "clean_name": "starch_nut_icon.png",
+      "path": "assets/icons/resources/starch_nut_icon.png"
+    },
+    {
+      "wiki_name": "Tyrant shard icon.png",
+      "clean_name": "tyrant_shard_icon.png",
+      "path": "assets/icons/resources/tyrant_shard_icon.png"
+    },
+    {
+      "wiki_name": "Umanite icon.png",
+      "clean_name": "umanite_icon.png",
+      "path": "assets/icons/resources/umanite_icon.png"
+    },
+    {
+      "wiki_name": "Unknown artifact icon.png",
+      "clean_name": "unknown_artifact_icon.png",
+      "path": "assets/icons/resources/unknown_artifact_icon.png"
+    },
+    {
+      "wiki_name": "Yeast cone icon.png",
+      "clean_name": "yeast_cone_icon.png",
+      "path": "assets/icons/resources/yeast_cone_icon.png"
+    }
+  ],
+  "missions": [
+    {
+      "wiki_name": "All mission icon gif.gif",
+      "clean_name": "all_mission_icon_gif.gif",
+      "path": "assets/icons/missions/all_mission_icon_gif.gif"
+    },
+    {
+      "wiki_name": "Blackbox icon.png",
+      "clean_name": "blackbox_icon.png",
+      "path": "assets/icons/missions/blackbox_icon.png"
+    },
+    {
+      "wiki_name": "Deep Scan icon.png",
+      "clean_name": "deep_scan_icon.png",
+      "path": "assets/icons/missions/deep_scan_icon.png"
+    },
+    {
+      "wiki_name": "Egg Hunt icon.png",
+      "clean_name": "egg_hunt_icon.png",
+      "path": "assets/icons/missions/egg_hunt_icon.png"
+    },
+    {
+      "wiki_name": "Elimination icon.png",
+      "clean_name": "elimination_icon.png",
+      "path": "assets/icons/missions/elimination_icon.png"
+    },
+    {
+      "wiki_name": "Escort Duty icon.png",
+      "clean_name": "escort_duty_icon.png",
+      "path": "assets/icons/missions/escort_duty_icon.png"
+    },
+    {
+      "wiki_name": "Heavy Extraction icon.png",
+      "clean_name": "heavy_extraction_icon.png",
+      "path": "assets/icons/missions/heavy_extraction_icon.png"
+    },
+    {
+      "wiki_name": "Industrial Sabotage icon.png",
+      "clean_name": "industrial_sabotage_icon.png",
+      "path": "assets/icons/missions/industrial_sabotage_icon.png"
+    },
+    {
+      "wiki_name": "Mining Expedition icon.png",
+      "clean_name": "mining_expedition_icon.png",
+      "path": "assets/icons/missions/mining_expedition_icon.png"
+    },
+    {
+      "wiki_name": "On-site Refining icon.png",
+      "clean_name": "on_site_refining_icon.png",
+      "path": "assets/icons/missions/on_site_refining_icon.png"
+    },
+    {
+      "wiki_name": "Point Extraction icon.png",
+      "clean_name": "point_extraction_icon.png",
+      "path": "assets/icons/missions/point_extraction_icon.png"
+    },
+    {
+      "wiki_name": "Salvage icon.png",
+      "clean_name": "salvage_icon.png",
+      "path": "assets/icons/missions/salvage_icon.png"
+    },
+    {
+      "wiki_name": "Search and extract icon.png",
+      "clean_name": "search_and_extract_icon.png",
+      "path": "assets/icons/missions/search_and_extract_icon.png"
+    }
+  ],
+  "misc": [
+    {
+      "wiki_name": "Assignment Icon.png",
+      "clean_name": "assignment_icon.png",
+      "path": "assets/icons/misc/assignment_icon.png"
+    },
+    {
+      "wiki_name": "Blankpixel.png",
+      "clean_name": "blankpixel.png",
+      "path": "assets/icons/misc/blankpixel.png"
+    },
+    {
+      "wiki_name": "Class level icon.png",
+      "clean_name": "class_level_icon.png",
+      "path": "assets/icons/misc/class_level_icon.png"
+    },
+    {
+      "wiki_name": "Credit.png",
+      "clean_name": "credit.png",
+      "path": "assets/icons/misc/credit.png"
+    },
+    {
+      "wiki_name": "DeepDive Icon.png",
+      "clean_name": "deep_dive_icon.png",
+      "path": "assets/icons/misc/deep_dive_icon.png"
+    },
+    {
+      "wiki_name": "DRG Logo.png",
+      "clean_name": "drg_logo.png",
+      "path": "assets/icons/misc/drg_logo.png"
+    },
+    {
+      "wiki_name": "DRG Streamer.png",
+      "clean_name": "drg_streamer.png",
+      "path": "assets/icons/misc/drg_streamer.png"
+    },
+    {
+      "wiki_name": "DRG Supporter.png",
+      "clean_name": "drg_supporter.png",
+      "path": "assets/icons/misc/drg_supporter.png"
+    },
+    {
+      "wiki_name": "Health icon.png",
+      "clean_name": "health_icon.png",
+      "path": "assets/icons/misc/health_icon.png"
+    },
+    {
+      "wiki_name": "Icon Accessory.png",
+      "clean_name": "icon_accessory.png",
+      "path": "assets/icons/misc/icon_accessory.png"
+    },
+    {
+      "wiki_name": "Icon ArmorType Heavy.png",
+      "clean_name": "icon_armor_type_heavy.png",
+      "path": "assets/icons/misc/icon_armor_type_heavy.png"
+    },
+    {
+      "wiki_name": "Icon ArmorType Light.png",
+      "clean_name": "icon_armor_type_light.png",
+      "path": "assets/icons/misc/icon_armor_type_light.png"
+    },
+    {
+      "wiki_name": "Icon ArmorType Unbreakable.png",
+      "clean_name": "icon_armor_type_unbreakable.png",
+      "path": "assets/icons/misc/icon_armor_type_unbreakable.png"
+    },
+    {
+      "wiki_name": "Icon Beer License.png",
+      "clean_name": "icon_beer_license.png",
+      "path": "assets/icons/misc/icon_beer_license.png"
+    },
+    {
+      "wiki_name": "Icon Damage Type Explosion.png",
+      "clean_name": "icon_damage_type_explosion.png",
+      "path": "assets/icons/misc/icon_damage_type_explosion.png"
+    },
+    {
+      "wiki_name": "Icon Damage Type Grabbed.png",
+      "clean_name": "icon_damage_type_grabbed.png",
+      "path": "assets/icons/misc/icon_damage_type_grabbed.png"
+    },
+    {
+      "wiki_name": "Icon Damage Type Kinetic.png",
+      "clean_name": "icon_damage_type_kinetic.png",
+      "path": "assets/icons/misc/icon_damage_type_kinetic.png"
+    },
+    {
+      "wiki_name": "Icon Damage Type Push.png",
+      "clean_name": "icon_damage_type_push.png",
+      "path": "assets/icons/misc/icon_damage_type_push.png"
+    },
+    {
+      "wiki_name": "Icon Revive.png",
+      "clean_name": "icon_revive.png",
+      "path": "assets/icons/misc/icon_revive.png"
+    },
+    {
+      "wiki_name": "Icon Sleeves Off.png",
+      "clean_name": "icon_sleeves_off.png",
+      "path": "assets/icons/misc/icon_sleeves_off.png"
+    },
+    {
+      "wiki_name": "Icon Sleeves On.png",
+      "clean_name": "icon_sleeves_on.png",
+      "path": "assets/icons/misc/icon_sleeves_on.png"
+    },
+    {
+      "wiki_name": "Icon Sleeves Unavailable.png",
+      "clean_name": "icon_sleeves_unavailable.png",
+      "path": "assets/icons/misc/icon_sleeves_unavailable.png"
+    },
+    {
+      "wiki_name": "Icon-dig.png",
+      "clean_name": "icon_dig.png",
+      "path": "assets/icons/misc/icon_dig.png"
+    },
+    {
+      "wiki_name": "Icons Campaign.png",
+      "clean_name": "icons_campaign.png",
+      "path": "assets/icons/misc/icons_campaign.png"
+    },
+    {
+      "wiki_name": "Logo GSG White.png",
+      "clean_name": "logo_gsg_white.png",
+      "path": "assets/icons/misc/logo_gsg_white.png"
+    },
+    {
+      "wiki_name": "Logo GSG.png",
+      "clean_name": "logo_gsg.png",
+      "path": "assets/icons/misc/logo_gsg.png"
+    },
+    {
+      "wiki_name": "Lost Pack.png",
+      "clean_name": "lost_pack.png",
+      "path": "assets/icons/misc/lost_pack.png"
+    },
+    {
+      "wiki_name": "Player rank icon.png",
+      "clean_name": "player_rank_icon.png",
+      "path": "assets/icons/misc/player_rank_icon.png"
+    },
+    {
+      "wiki_name": "Xp icon.png",
+      "clean_name": "xp_icon.png",
+      "path": "assets/icons/misc/xp_icon.png"
+    }
+  ]
+}

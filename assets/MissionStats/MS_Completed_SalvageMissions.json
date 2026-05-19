@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_SalvageMissions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_SalvageMissions",
+    "Properties": {
+      "SaveGameID": "5DE082C2-46E538CD-9ABAC28A-5EDE358C",
+      "Title": {
+        "Namespace": "",
+        "Key": "557B55E74F310E9E3CE1B99447B57EC1",
+        "SourceString": "Salvage Operations Completed",
+        "LocalizedString": "Salvage Operations Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Missions'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Missions.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

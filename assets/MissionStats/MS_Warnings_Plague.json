@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_Plague",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_Plague",
+    "Properties": {
+      "SaveGameID": "55C6E51F-4A7C7155-A725CF8E-1EA7A1DE",
+      "Title": {
+        "Namespace": "",
+        "Key": "904E8EDB4A25E3B297FA39B36AAF2956",
+        "SourceString": "'Lithophage Outbreak' Warnings Completed",
+        "LocalizedString": "'Lithophage Outbreak' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

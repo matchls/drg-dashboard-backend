@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_DoubleWarning",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_DoubleWarning",
+    "Properties": {
+      "SaveGameID": "293D701E-4A70EA14-764E6791-1951705E",
+      "Title": {
+        "Namespace": "",
+        "Key": "52CC10564CFB5B1B4C9EABB9F33339D1",
+        "SourceString": "Double Warnings Completed",
+        "LocalizedString": "Double Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

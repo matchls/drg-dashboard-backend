@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_NoShields",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_NoShields",
+    "Properties": {
+      "SaveGameID": "8EBD0517-4E2E4032-A5CD4D8A-74491AE2",
+      "Title": {
+        "Namespace": "",
+        "Key": "FC7BD3ED43577B288F6BC9937000BDF0",
+        "SourceString": "'Shield Disruption' Warnings Completed",
+        "LocalizedString": "'Shield Disruption' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

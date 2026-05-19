@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_ScrabNestingGrounds",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_ScrabNestingGrounds",
+    "Properties": {
+      "SaveGameID": "0EF42EA7-4C10B761-819B19B2-7E30EBDC",
+      "Title": {
+        "Namespace": "",
+        "Key": "4793DA3C48F4CC42BD1C0E93D37B866E",
+        "SourceString": "'Scrab Nesting Grounds' Warnings Completed",
+        "LocalizedString": "'Scrab Nesting Grounds' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

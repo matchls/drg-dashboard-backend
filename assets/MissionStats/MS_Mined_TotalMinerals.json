@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Mined_TotalMinerals",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Mined_TotalMinerals",
+    "Properties": {
+      "SaveGameID": "5816FCD0-41B55647-FC8F70B8-A2C62A3C",
+      "Title": {
+        "Namespace": "",
+        "Key": "FF249D1545DF2C5F1C085FA7F4A516FA",
+        "SourceString": "Minerals Mined",
+        "LocalizedString": "Minerals Mined"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Mined'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Mined.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Completed_AzureWeald",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Completed_AzureWeald",
+    "Properties": {
+      "SaveGameID": "5D7665F1-41232AD9-ABB756A9-7025347E",
+      "Title": {
+        "Namespace": "",
+        "Key": "783679684CA8D933B287B1A44FA73A43",
+        "SourceString": "Azure Weald Missions Completed",
+        "LocalizedString": "Azure Weald Missions Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Bioms'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Bioms.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

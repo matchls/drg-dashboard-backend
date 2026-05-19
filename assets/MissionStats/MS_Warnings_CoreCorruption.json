@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_CoreCorruption",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_CoreCorruption",
+    "Properties": {
+      "SaveGameID": "9DAE5C4B-49B3E252-B759F2B2-1CBEE80C",
+      "Title": {
+        "Namespace": "",
+        "Key": "CC8A84E946289D664D6576A42D986459",
+        "SourceString": "'Core Corruption' Warnings Completed",
+        "LocalizedString": "'Core Corruption' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

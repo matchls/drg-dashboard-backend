@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "MissionStat",
+    "Name": "MS_Warnings_ExploderInfestations",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStat'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MS_Warnings_ExploderInfestations",
+    "Properties": {
+      "SaveGameID": "31A14AC4-4388B9F5-ADEB198A-54A3D3F8",
+      "Title": {
+        "Namespace": "",
+        "Key": "ADB2DBC740B7437648BAB1982D55F2D8",
+        "SourceString": "'Exploder Infestation' Warnings Completed",
+        "LocalizedString": "'Exploder Infestation' Warnings Completed"
+      },
+      "Category": {
+        "ObjectName": "MissionStatCategory'MSC_Warnings'",
+        "ObjectPath": "FSD/Content/GameElements/KPI/MissionStats/MSC_Warnings.0"
+      },
+      "MissionStatType": "EMissionStatType::Integer"
+    }
+  }
+]

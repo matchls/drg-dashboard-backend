@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "MissionStatCategory",
+    "Name": "MSC_Drinkables",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'MissionStatCategory'",
+    "Package": "FSD/Content/GameElements/KPI/MissionStats/MSC_Drinkables",
+    "Properties": {
+      "Title": {
+        "Namespace": "",
+        "Key": "2ED3CB6A48527D7C7D52FBAA7D75EAFD",
+        "SourceString": "Beverages",
+        "LocalizedString": "Beverages"
+      },
+      "Icon": {
+        "ObjectName": "Texture2D'Icons_Beer'",
+        "ObjectPath": "FSD/Content/UI/Art/Icons/Icons_Misc/Icons_Beer.0"
+      }
+    }
+  }
+]
