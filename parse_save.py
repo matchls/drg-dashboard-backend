@@ -94,8 +94,12 @@ class GVASParser:
                 st, o = self.str(o)
                 o    += 17
                 for _ in range(count):
-                    item, o = self.parse_props(o, true_end)
-                    item["_type"] = st; arr.append(item)
+                    if st == "Guid":
+                        item, o = self.guid(o)
+                    else:
+                        item, o = self.parse_props(o, true_end)
+                        item["_type"] = st
+                    arr.append(item)
 
             elif itype_str == "IntProperty":
                 for _ in range(count): v,o=self.i32(o); arr.append(v)
