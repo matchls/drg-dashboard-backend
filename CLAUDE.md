@@ -223,3 +223,43 @@ npm run build                    # build de production
 - Le thème est **sombre** — les icônes de perks sont blanches sur fond transparent
 - L'objectif est un dashboard **lisible et pédagogique**, pas un éditeur de saves
 - Mat est débutant : toujours expliquer avant de coder, proposer une étape à la fois
+
+---
+
+## État actuel (mai 2026)
+
+### Ce qui est terminé ✅
+
+**Backend**
+- Parseur GVAS complet (`parse_save.py`) — tous les types sauf `MapProperty` et `SetProperty`
+- Mapping GUIDs → noms lisibles (`guid_mapper.py`, `guids.json`, `stat_guids.json`)
+- `stats_builder.py` — construit le JSON final envoyé au frontend :
+  - `_format_stat_name()` : convertit les noms d'assets en texte lisible (`MS_Completed_DeepScan` → `Deep Scan`)
+  - `UNIT_MAP` : unités pour distance (cm) et temps (s)
+  - Filtrage des stats avec GUID inconnu
+- API Flask (`api.py`) — endpoint `POST /api/parse` fonctionnel en local
+
+**Frontend (dépôt séparé `drg_dashboard_frontend`)**
+- Upload `.sav` + pseudo → appel backend → stockage Supabase
+- Page `/dashboard` : hero stats, cards par classe, overclocks avec icônes d'armes, mission stats avec onglets par catégorie
+- Page `/leaderboard` : classement triable depuis Supabase
+- Navbar active, police Barlow Condensed, thème DRG brun chaud
+
+### Ce qui reste à faire 🔜
+
+**Design (priorité actuelle)**
+- Refonte DA fidèle à DRG : coins biseautés (`clip-path`) sur les cards, séparateurs oranges
+- Cohérence des majuscules sur tous les labels
+- Ajouter icônes minerais dans Mission Stats → section Mining
+- Ajouter icônes missions/assignments dans les onglets Mission Stats
+
+**Dashboard — fonctionnalités**
+- Réordonner : Mission Stats avant Overclocks
+- Camembert par stat de classe (clic sur une stat → camembert coloré par classe)
+- Filtre par classe dans la section Overclocks
+- Nombre d'overclocks par classe affiché dans le header de section
+
+**Déploiement**
+- Backend sur Railway (ou Vercel serverless)
+- Frontend sur Vercel
+- Diagramme d'architecture dans le README GitHub
